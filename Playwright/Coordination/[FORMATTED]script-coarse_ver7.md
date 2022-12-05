@@ -268,23 +268,15 @@ C.S.M: The very place, quiet, modest and discretion itself. <font color=grey>*(w
 Withdrawal: Everything on the stage
 Resetting: idk
 
-## Act 5. Henry got to know Locke and they became good friends.
+## Act 3. Henry got to know Locke and they became good friends.
 
-### Scene 1. Hotel receptionist leads Adams into the lobby, while Locke is signing his name at the counter, with hotel manager standing beside him.
+### Hotel receptionist leads Adams into the lobby, while Locke is signing his name at the counter, with hotel manager standing beside him.
+
+### Stage Properties: A desk, with pen and paper on it, on one side of the stage (representing the reception desk of the hotel lobby), and a table, with food and drinks (if possible), on the opposite side (representing the restaurant).
 
 Actors: Henry Adams, Receptionist, Manager, Locke, Narrator
 
-Receptionist: <font color=grey>*(To Henry Adams)*</font> Welcome to Bumbles. The manager is expecting you. <font color=grey>*(To manager)*</font> This is Mr. Henry Adams.
-
-Manager: Adams? Did you say Adams!
-
-Henry Adams: That’s right.
-
-Manager: <font color=grey>*(Awkwardly)*</font> Oh, Mr. Adams, I am awfully sorry. There’s been the most unfortunate misunderstanding. Sign your name on the register, please.
-
-Henry Adams: What’s going on?
-
-Narrator: The hotel staff has mistaken Locke, a dumb man with shocking strength, for Adams. Locke was reluctant to leave, and the hotel staff decides to call the police.
+N.: The hotel staff has mistaken Locke, a dumb man with shocking strength, for Adams. Locke was reluctant to leave, and the hotel staff decides to call the police.
 
 Locke: <font color=grey>*(Frowns, glares at Manager aggressively)*</font>
 
@@ -292,69 +284,47 @@ Receptionist: <font color=grey>*(Leads Locke away)*</font>
 
 Locke: <font color=grey>*(Knocks receptionist down)*</font>
 
-Henry Adams: Just a minute. I don’t think we need the police. I’d like to have a talk with this gentleman. <font color=grey>*(Walks towards Locke)*</font>
+H.A.: Just a minute. I don’t think we need the police. I’d like to have a talk with this gentleman. <font color=grey>*(Walks towards Locke)*</font>
 
 Locke: <font color=grey>*(Points at his throat)*</font>
 
-Henry Adams: You can’t talk?
+H.A.: You can’t talk?
 
 Locke: <font color=grey>*(Nods)*</font>
 
-Henry Adams: Well, that doesn’t affect your drinking habits, does it?
+H.A.: Well, that doesn’t affect your drinking habits, does it?
 
 Locke: <font color=grey>*(Smiles)*</font>
 
-Henry Adams: <font color=grey>*(Pats Locke on the shoulder, leading him to a table)*</font> <font color=grey>*(To manager)*</font> Then perhaps you’ll be kind enough to lead the way for us.
+H.A.: <font color=grey>*(Pats Locke on the shoulder, leading him to a table)*</font> <font color=grey>*(To manager)*</font> Then perhaps you’ll be kind enough to lead the way for us.
 
-Narrator: Adams learns that the dumb man works in a circus, and invites him to have a meal. He then talks about the million-pound bank note he received from the brothers, and their promise to grant him any job he requests.
+N.: Adams learns that the dumb man works in a circus, and invites him to have a meal. He then talks about the million-pound bank note he received from the brothers, and their promise to grant him any job he requests.
 
-Henry Adams: All I was doing was walking around looking for a job, and now look what’s happening. I didn’t ask for this - But now that I’m in it, I may as well enjoy it.
+H.A.: All I was doing was walking around looking for a job, and now look what’s happening. I didn’t ask for this - But now that I’m in it, I may as well enjoy it.
 
-Henry Adams: And that’s where you could come in! Are you very busy these days?
+H.A.: And that’s where you could come in! Are you very busy these days?
 
 Locke: <font color=grey>*(Shakes his head)*</font>
 
-Henry Adams: Well, that’s great! Then why don’t you stay with me for the next four weeks? Help me to keep the bank note intact?
+H.A.: Well, that’s great! Then why don’t you stay with me for the next four weeks? Help me to keep the bank note intact?
 
 Locke: <font color=grey>*(Holds out his hand)*</font>
 
-Henry Adams: <font color=grey>*(Shakes hands with Locke)*</font> <font color=grey>*(To Locke, proudly)*</font> For the next month, I’m Henry Adams, the American Millionaire.
+H.A.: <font color=grey>*(Shakes hands with Locke)*</font> <font color=grey>*(To Locke, proudly)*</font> For the next month, I’m Henry Adams, the American Millionaire.
 
-### Scene 2. At the American Consulate, Henry Adams walks in, followed by Locke. The Ambassador shakes hands with Henry to greet him.
+## Act 4. Henry was introduced to the upper class.
 
-Actors: Ambassador, Henry Adams, Locke
+### Scene 1. Henry was invited to a party.
 
-<font color=grey>*(Locke off the stage)*</font>
+### Stage Properties: A table on one side of the stage, guests 1-3 standing on the other side chatting, Portia and her uncle sitting at the rear of the stage, Duchess of Cromarty standing at the front
 
-Ambassador: <font color=grey>*(Warmly)*</font> But for these newspapers I wouldn’t have known your arrival. Well, how long are you staying?
+Actors: Duchess of Cromarty (the host of the party), Portia,
+Portia’s uncle (i.e., Duke of Cromarty), Henry Adams, Guests 1-4 (Guests 1-2
+are females, Guests 3-4 are males), Narrator
 
-Henry Adams: Well, that depends er ... indefinitely.
+N.: Henry Adams is introduced to a party at Hampshire house, the Duchess’s residence.
 
-Ambassador: <font color=grey>*(Handing a cigar over to Henry)*</font> You’re in time for the season. Who do you know, Mr. Adams?
-
-Henry Adams: I don’t know anyone except er... two brothers in Belgrave Square - Oliver and Roderick something or other. <font color=grey>*(Hesitating)*</font> You see ... This note of mine ...
-
-Ambassador: Say no more, Mr. Adams. Would a hundred pounds be enough?
-
-Henry Adams: Well, that's awfully good of you, but...
-
-Ambassador: <font color=grey>*(On the phone, immediately)*</font> Bring in a hundred pounds immediately for Mr. Henry Adams, in five-pound notes.
-
-Henry Adams: Oh, thank you very much.
-
-Ambassador: I’m here to help our nationals. Now to get down to more serious matters. I must open a few doors for you.
-
-<font color=grey>*(Henry Adams and the Ambassador leave.)*</font>
-
-## Act 6. Henry was introduced to the upper class.
-
-### Scene 1. At Hampshire house (the Duchess’s residence), guests sitting around a table. Henry walks in.
-
-Actors: Duchess of Cromarty, Portia, Portia’s uncle (and Duke of Cromarty), Henry Adams, Guests 1-3, Narrator
-
-Narrator: Henry Adams is introduced to a party at Hampshire house, the Duchess’s residence.
-
-Crowd: Mr. Henry Adams!
+<font color=grey>*(In the background, reading the name aloud)*</font> Mr. Henry Adams!
 
 Duchess of Cromarty: How good of you to come, Mr. Adams. This is my husband.
 
@@ -362,15 +332,17 @@ Duke: How do you do? <font color=grey>*(Shakes hands with Henry)*</font>
 
 Duchess: <font color=grey>*(Kindly)*</font> Now this is a very informal occasion. I do hope you're going to enjoy yourself. <font color=grey>*(Off the stage)*</font>
 
-<font color=grey>*(Henry Adams walks over to the Ambassador.)*</font>
+<font color=grey>*(Guest 4 onto the stage, walking over to Henry.)*</font>
 
-Ambassador: If you really wish to understand the British, I suggest a visit to the House of Lords. Would you care to come with me?
+Guest 4: If you really wish to understand the British, I suggest a visit to the House of Lords. Would you care to come with me?
 
-Henry Adams: Well, yes indeed. As a matter of fact...
+H.A.: Well, yes indeed. As a matter of fact...
+
+<font color=grey>*(Guest 4 off the stage)*</font>
 
 Duchess: <font color=grey>*(Onto the stage, approaches Henry)*</font> Mr. Adams, I am most anxious to introduce you to Mr. Hooker Orr.
 
-<font color=grey>*(Henry Adams follows the Duchess and sees Portia on the way.)*</font>
+<font color=grey>*(Henry Adams follows the Duchess and walks past Portia, when she and Henry look at each other, and both of them start smiling involuntarily)*</font>
 
 <font color=grey>*(Duchess leaves.)*</font>
 
@@ -378,7 +350,7 @@ Guest 1: Doris likes to play lawn-tennis, Mr. Adams. We just can't keep her away
 
 Guest 2: Do the ladies play lawn-tennis in your country, Mr. Adams?
 
-Henry Adams: Oh yes, indeed.
+H.A.: Oh yes, indeed.
 
 Guest 3: Now, Mr. Adams, I want you to make the acquaintance of Sir William Collins...
 <font color=grey>*(Henry Adams and Guest 3 off the stage)*</font>
@@ -389,19 +361,21 @@ Guest 2: We must invite him to lunch!
 
 <font color=grey>*(All the actors off the stage.)*</font>
 
-### Scene 2. Portia and her uncle (Duke of Cromarty) sit by a table talking. Henry and the Duchess stand on the other side of the stage.
+### Scene 2. Portia and her uncle (Duke of Cromarty) sit by a table talking.
 
-Actors: Henry Adams, Portia, Portia’s uncle, Narrator
+### Stage Properties: Henry and Duchess standing on one side of the stage, Portia and her uncle sitting around a table on the other side.
 
-Portia: Uncle?
+Actors: Henry Adams, Portia, Portia’s uncle (Duke), Duchess, Narrator
+
+P.L. Uncle?
 
 Duke: What is it, my dear?
 
-Portia: Mr. Henry Adams. I'd like to meet him.
+P.L. Mr. Henry Adams. I'd like to meet him.
 
 Duke: Have you succumbed too?
 
-Portia: I merely thought it might be useful to get him interested in Aunt Grace's charity. A millionaire behind us is just what we need.
+P.L. I merely thought it might be useful to get him interested in Aunt Grace's charity. A millionaire behind us is just what we need.
 
 Duke: Oh, if that's your intention, my dear, I'm with you. I'll do my best.
 
@@ -413,179 +387,141 @@ Duke: Now I fear I must drag Mr. Adams away from you. We have a relation who wil
 
 <font color=grey>*(Following Portia’s uncle, Henry Adams walks towards Portia. Portia’s uncle off the stage.)*</font>
 
-Portia: Won't you sit down?
+P.L. Won't you sit down?
 
-Henry Adams: Thank you. <font color=grey>*(Sits down.)*</font>
+H.A.: Thank you. <font color=grey>*(Sits down.)*</font>
 
-Portia: Poor uncle, he hates my aunt's parties almost as much as I do. Nothing but talk, talk, talk. And nobody says anything, do they?
+P.L. Poor uncle, he hates my aunt's parties almost as much as I do. Nothing but talk, talk, talk. And nobody says anything, do they?
 
-Henry Adams: Well, nothing very serious. But - when we get back in, won't there be any gossip?
+H.A.: Well, nothing very serious. But - when we get back in, won't there be any gossip?
 
-Portia: I'll tell you what we do. We'll say we were discussing the Cromarty Home for Motherless Babies.
+P.L. I'll tell you what we do. We'll say we were discussing the Cromarty Home for Motherless Babies.
 
-Henry Adams: The what?
+H.A.: The what?
 
-Portia: The Cromarty Home for Motherless Babies.
+P.L. The Cromarty Home for Motherless Babies.
 
-Henry Adams: Oh, they won't be satisfied with that.
+H.A.: Oh, they won't be satisfied with that.
 
-Portia: Oh, they would. It's my aunt's pet charity. And you're a millionaire, after all. They'd expect you to take an interest in charity. You do, don't you?
+P.L. Oh, they would. It's my aunt's pet charity. And you're a millionaire, after all. They'd expect you to take an interest in charity. You do, don't you?
 
-Henry Adams: Well, yes, I-I do, but...
+H.A.: Well, yes, I-I do, but...
 
-Portia: And to prove it, you could say you're coming to the opening of our new premises. It's on next Wednesday.
+P.L. And to prove it, you could say you're coming to the opening of our new premises. It's on next Wednesday.
 
-Henry Adams: Uh ... would you be there?
+H.A.: Uh ... would you be there?
 
-Portia: Of course.
+P.L. Of course.
 
-Henry Adams: I'd be there.
+H.A.: I'd be there.
 
 <font color=grey>*(Henry and Portia off the stage.)*</font>
 
-Narrator: Henry is invited to the Home for Motherless Babies. After taking a look at the babies, he is taken to a charity auction. He doesn't want to donate much, but is urged by the audience to donate five thousand pounds.
+N.: Henry is invited to the Home for Motherless Babies. After taking a look at the babies, he is taken to a charity auction. He doesn't want to donate much, but is urged by the audience to donate five thousand pounds.
 
-## Act 7. Henry got tired and wanted to leave.
+## Act 5. Henry got tired and wanted to leave.
+
+## Stage Properties: Henry Adams lying on a bed (a sofa is ok). (Also need a way to show lights being turned on and off. If controlling the lights is too complicated, you can use a clicking sound.)
 
 Actors: Henry Adams, Locke
 
-Henry Adams: <font color=grey>*(Talking in his dream)*</font> Leave me alone. Leave me alone. Can't pay. Can't pay. Oh, can't pay... <font color=grey>*(Waking up with a start)*</font> Locke? <font color=grey>*(Sitting up, yelling)*</font> Locke! Locke!
+H.A.: <font color=grey>*(Talking in his dream)*</font> Leave me alone. Leave me alone. Can't pay. Can't pay. Oh, can't pay... <font color=grey>*(Waking up with a start)*</font> Locke? <font color=grey>*(Sitting up, yelling)*</font> Locke! Locke!
 
 Locke: <font color=grey>*(Entering Henry's room, turning on the lights hurriedly)*</font>
 
-Henry Adams: I can't go on with this, Locke. Not for another day!
+H.A.: I can't go on with this, Locke. Not for another day!
 
 Locke: <font color=grey>*(Walking towards Henry, worried)*</font>
 
-Henry Adams: We're overloaded with dept and we're getting deeper every minute. It's like walking on sand. How much of the Ambassador's money do we have left?
+H.A.: We're overloaded with dept and we're getting deeper every minute. It's like walking on sand. How much of the Ambassador's money do we have left?
 
 Locke: <font color=grey>*(Signals “none” to Henry)*</font>
 
-Henry Adams: All gone? The charities?
+H.A.: All gone? The charities?
 
 Locke: <font color=grey>*(Nods his head)*</font>
 
-Henry Adams: <font color=grey>*(Covering face with hands)*</font> <font color=grey>*(Resignedly)*</font> It costs money to be a millionaire. W-well, we've got to clear out of here somehow. <font color=grey>*(Firmly)*</font> We'll go into hiding until the end of the month. We have to go somewhere, I don't care where, just so we go. You fix it.
+H.A.: <font color=grey>*(Covering face with hands)*</font> <font color=grey>*(Resignedly)*</font> It costs money to be a millionaire. W-well, we've got to clear out of here somehow. <font color=grey>*(Firmly)*</font> We'll go into hiding until the end of the month. We have to go somewhere, I don't care where, just so we go. You fix it.
 
 Locke: <font color=grey>*(Walks away, perplexed)*</font>
 
-Henry Adams: <font color=grey>*(Lying down, relieved)*</font> Oh, that's a load off my mind. From now on the masquerade is over.
+H.A.: <font color=grey>*(Lying down, relieved)*</font> Oh, that's a load off my mind. From now on the masquerade is over.
 
 Locke: <font color=grey>*(Turns the lights off, off the stage)*</font>
 
 <font color=grey>*(The next morning. Locke and Henry wake up and stand by the window)*</font> <font color=grey>*(Sound of birds singing)*</font>
 
-Henry Adams: <font color=grey>*(With surprise)*</font> Locke, look. Listen. Smell.
+H.A.: <font color=grey>*(With surprise)*</font> Locke, look. Listen. Smell.
 
 <font color=grey>*(Locke onto the stage, standing beside Henry)*</font>
 
-Henry Adams: <font color=grey>*(Cheerfully)*</font> Locke! We're not going. <font color=grey>*(Tapping Locke on the shoulder)*</font> Things always look bad at night. But in the morning the sun is shining and the birds are singing. We can't throw in the cards like this when the game is only halfway through.
+H.A.: <font color=grey>*(Cheerfully)*</font> Locke! We're not going. <font color=grey>*(Tapping Locke on the shoulder)*</font> Things always look bad at night. But in the morning the sun is shining and the birds are singing. We can't throw in the cards like this when the game is only halfway through.
 
 <font color=grey>*(Henry and Locke off the stage.)*</font>
 
-## Act 8. Henry's fame started to influence the stockings of the gold mine.
+## Act 6. Henry's fame started to influence the stockings of the gold mine.
 
-### Scene 1. In the evening, on the coach and at Bumble Hotel.
+## Stage Properties: Henry and Lloyd sitting on 2 chairs side by side on one side of the stage (as two seats on the carriage) and a table with drinks and 2 cups on it, and two chairs on the other side of the stage
 
-Actors: Henry Adams, Lloyd, Coachman, Narrator
 
-<font color=grey>*(Lloyd and Henry are sitting on a coach, and the coachman is driving.)*</font>
+Actors: Henry Adams, Lloyd, Narrator
 
-Narrator: Henry has just professed his love to Portia at Hampshire House. Now a friend of Henry's, Lloyd Hastings, comes to visit him, and they are on the way to Bumble Hotel.
+N.: Henry has just professed his love to Portia at Hampshire House. Now a friend of Henry's, Lloyd Hastings, comes to visit him, and they are on the way to Bumble Hotel.
 
-Lloyd: Now, Henry, you've got to help me. I'm in trouble, and you'll be able to get me out quite easily. I've made a large investment in a gold mine, the Good Hope Gold Mine.
+L.H.: Now, Henry, you've got to help me. I'm in trouble, and you'll be able to get me out quite easily. I've made a large investment in a gold mine, the Good Hope Gold Mine.
 
-Henry: <font color=grey>*(Daydreaming)*</font> <font color=grey>*(Contentedly)*</font> Oh, what an unforgettable night I had with her. I took the dearest girl in this world - prisoner! It’s the only thing that makes me feel like a man. I tried to tell her the truth - that the bank note didn’t belong to me - but she looked so lovely under the moonlight, I just couldn’t say it.
+H.A.: <font color=grey>*(Daydreaming)*</font> <font color=grey>*(Contentedly)*</font> Oh, what an unforgettable night I had with her. I won the heart of the dearest girl in this world! When I told her - I did, indeed - told her I loved her, she - well, she blushed till her hair turned red, but she liked it; she said she did. And she’s the only person I could be perfectly honest and square with. I told her I hadn't a cent in the world but just the million-pound note, and it didn't belong to me. I told her the whole story. She couldn’t believe it at first - but then she just laughed. She didn’t seem to mind it at all...
 
-Narrator: Henry is daydreaming about the time he had with Portia, not listening to Lloyd.
+**(Note that this should be addressed to the audience)**
 
-Coachman: Bumble, sir. We're here, sir.
+N.: Henry is daydreaming about the time he had with Portia, not listening to Lloyd.
 
-Henry: Well, we're here. Home already. Come on in and have a drink.
+<font color=grey>*(Background, as the driver reminding
+the passengers)*</font> Bumble, sir. We're here, sir.
 
-<font color=grey>*(Henry and Lloyd enter the hotel and sit down in their room (a table on the other side of the stage))*</font> <font color=grey>*(Coachman leaves)*</font>
+H.A.: Well, we're here. Home already. Come on in and have a drink.
 
-Lloyd: Dear me! It's a palace - it's just a palace! Henry, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry, the mere unconsidered drippings of your daily income would -
+<font color=grey>*(Henry and Lloyd enter the hotel and sit down in their room (represented with a table))*</font>
 
-Henry: Oh, my daily income! Here, down with this hot Scotch, and cheer up your soul. Here's with you! <font color=grey>*(Pours Scotch)*</font> Now, then, Lloyd, unreel your story.
+L.H.: Dear me! It's a palace - it's just a palace! Henry, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry, the mere unconsidered drippings of your daily income would -
 
-Lloyd: Unreel it? Again? I've already told you about it, Henry. I've sunk everything I have into that mine. But there isn't one capitalist who'll take a chance. <font color=grey>*(Jumping up)*</font> <font color=grey>*(Desperately)*</font> Henry, you can save me! You can save me, and you're the only man in the universe that can. Will you do it? Won't you do it?
+H.A.: Oh, my daily income! Here, down with this hot Scotch, and cheer up your soul. Here's with you! <font color=grey>*(Pours Scotch)*</font> Now, then, Lloyd, unreel your story.
 
-Henry: Tell me how. Speak out, my boy.
+L.H.: Unreel it? Again? I've already told you about it, Henry. I've sunk everything I have into that mine. But there isn't one capitalist who'll take a chance. <font color=grey>*(Jumping up)*</font> <font color=grey>*(Desperately)*</font> Henry, you can save me! You can save me, and you're the only man in the universe that can. Will you do it? Won't you do it?
 
-Lloyd: Give me a million for the marketing rights of the mine! <font color=grey>*(Nervously)*</font> Don't, don't refuse!
+H.A.: Tell me how. Speak out, my boy.
 
-Henry: <font color=grey>*(Worriedly, for he knows himself that not a penny of the million pounds belongs to himself)*</font> But- <font color=grey>*(Trying to be calm)*</font> I will save you, Lloyd-
+L.H.: Give me a million for the marketing rights of the mine! <font color=grey>*(Nervously)*</font> Don't, don't refuse!
 
-Lloyd: Then I'm already saved! God be merciful to you forever! If ever I-
+H.A.: <font color=grey>*(Worriedly, for he knows himself that not a penny of the million pounds belongs to himself)*</font> But- <font color=grey>*(Trying to be calm)*</font> I will save you, Lloyd-
 
-Henry: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I will save you, but not in that way; for that would not be fair to you, after your hard work, and the risks you've run. I don't need to buy mines; I can keep my capital moving, in a commercial center like London, without that. Here’s what I'll do. I know all about that mine, of course; I know its immense value, and can swear to it if anybody wishes it. You shall sell it within two weeks, for three millions cash. Use my name freely, and we'll divide, share and share alike.
+L.H.: Then I'm already saved! God be merciful to you forever! If ever I-
 
-Lloyd: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
+H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I will save you, but not in that way; for that would not be fair to you, after your hard work, and the risks you've run. I don't need to buy mines; I can keep my capital moving, in a commercial center like London. Here’s what I'll do. I know all about that mine, of course; I know its immense value, and can swear to it if anybody wishes it. You shall sell it within two weeks, for three millions cash. Use my name freely, and we'll divide the profits.
+
+L.H.: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
 
 <font color=grey>*(Lloyd and Henry off the stage.)*</font>
 
-### Scene 2. Henry and Portia are on vacation, rowing a boat.
+## Act 7. The waitress of the hotel played a joke on Henry by concealing his cheque, which resulted in doubts and rumors and affected Henry's life.
 
-Actors: Henry Adams, Portia, Narrator
-
-Henry: <font color=grey>*(Contentedly)*</font>I've finally won your heart.
-
-Portia: <font color=grey>*(Obediently)*</font>Yes, Henry.
-
-Henry: So you've got to listen to me.
-
-Portia: Yes, Henry.
-
-Henry: <font color=grey>*(Seriously)*</font> Listen, Portia. I'm not a millionaire. The banknote doesn't belong to me. In fact, I don't have a single possession I can call my own.
-
-Portia: Oh, my poor, poor lamb.
-
-Henry: No, I'm serious.
-
-Portia: <font color=grey>*(Suspiciously)*</font> So you’re living in the Bridal suite at Bumbles free of charge?
-
-Henry: That’s right.
-
-Portia: And it costs you nothing to eat or drink?
-
-Henry: That’s right.
-
-Portia: <font color=grey>*(Annoyed)*</font> You really expect me to believe you?
-
-Henry: <font color=grey>*(Embarrassed)*</font> Well, when you hear how the whole thing happened you will. You see...
-
-Portia: <font color=grey>*(Angrily)*</font> Now I think it's time to stop teasing. You can take me home.
-
-Henry: But don't you want to hear how it happened?
-
-Portia: I've heard quite enough. Take me home. And if you're trying to get out of the five thousand pounds you promised my aunt, you may as well know that I shall never marry a man who isn't charitable. <font color=grey>*(Climbs out of the boat.)*</font>
-
-Henry: <font color=grey>*(Chasing Portia)*</font> But wait...
-
-Narrator: Henry then tells Portia the whole story, and Portia is satisfied again.
-
-<font color=grey>*(All actors off the stage.)*</font>
-
-## Act 9. The waitress of the hotel played a joke on Henry by concealing his cheque, which resulted in doubts and rumors and affected Henry's life.
-
-Narrator: Henry has earned huge sums of money from the gold mine deal, and on hearing that, Portia decides to leave him.
+N.: Henry has earned huge sums of money from the gold mine deal, and on hearing that, Portia decides to leave him.
 
 ### Scene 1 (hotel counter): Duke of Frognal and Lloyd had a bicker over Henry's occupancy of the suite.
 
-Duke of Frognal: <font color=grey>*(pounding bank notes onto the counter)*</font> 490, 495, 500 pounds.
+D.F. <font color=grey>*(pounding bank notes onto the counter)*</font> 490, 495, 500 pounds.
 
-Lloyd: Thank you, your grace.
+L.bum: Thank you, your grace.
 
-Duke of Frognal: Not at all. <font color=grey>*(with a sharp change in tone)*</font> Now what I require is a definitive explanation of this yankee american's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs!
+D.F. Not at all. <font color=grey>*(with a sharp change in tone)*</font> Now what I require is a definitive explanation of this yankee american's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs!
 
-Lloyd: Well, we could accommodate you in the Marborough Suite, which is equally luxurious and enjoyable.
+L.bum: Well, we could accommodate you in the Marborough Suite, which is equally luxurious and enjoyable.
 
-Duke of Frognal: No, I want my old suite back. It's a question of principle.
+D.F. No, I want my old suite back. It's a question of principle.
 
-Lloyd: He's a public figure, your grace, of considerable standing.
+L.bum: He's a public figure, your grace, of considerable standing.
 
-Duke of Frognal: Stuff and nonsense! <font color=grey>*(irritated, angrily leaves the counter without even picking up the bank notes)*</font>
+D.F. Stuff and nonsense! <font color=grey>*(irritated, angrily leaves the counter without even picking up the bank notes)*</font>
 
 ### Scene 2 (cloakroom): Duke of Frognal convinced Renie, the maid into hiding the cheque.
 
@@ -593,17 +529,17 @@ Duke of Frognal: Stuff and nonsense! <font color=grey>*(irritated, angrily leave
 
 Renie: I couldn't sir. What if I were caught?
 
-Duke of Frognal: Come on, be a sport. It's only a bit of fun. You can say it was my orders.
+D.F. Come on, be a sport. It's only a bit of fun. You can say it was my orders.
 
 <font color=grey>*(Renie grinned seductively towards Duke of Frognal)*</font>
 
-Narrator: <font color=grey>*(Renie acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Locke didn't even took notice of Renie's presence.
+N.: <font color=grey>*(Renie acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Locke didn't even took notice of Renie's presence.
 
 <font color=grey>*(Renie returned to Duke of Frognal who feigned a praise and left)*</font>
 
 ### Scene 3 (Portia's mansion): Soon rumor arose about the millionare's authenticity.
 
-Narrator: In the evening, Duke of Frognal spread the rumors of Henry being a fake millionare to the guests present. At first, the act was a self-consolation per se, but soon the news spread by word of mouth and the next morning, an article titled *million pound mystery* was published on front page of the most eminent newspaper in London.
+N.: In the evening, Duke of Frognal spread the rumors of Henry being a fake millionare to the guests present. At first, the act was a self-consolation per se, but soon the news spread by word of mouth and the next morning, an article titled *million pound mystery* was published on front page of the most eminent newspaper in London.
 
 Portia's aunt: ... that London Society has freely opened its doors to this notorious American visitor. An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
 
@@ -611,130 +547,130 @@ Portia's aunt: ... that London Society has freely opened its doors to this notor
 
 Portia's aunt: What extraodinary creatures women are! She told me she wasn't speaking to Henry Adams, and if we're going to avoid a scandal, she mustn't.
 
-Narrator: Having been deeply captivated by the unsophisticated but sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
+N.: Having been deeply captivated by the unsophisticated but sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
 
 <font color=grey>*(Portia's aunt enters Portia's room)*</font>
 
-Portia: <font color=grey>*(childishly but rebelliously)*</font> I'm going straight to Bumbles.
+P.L. <font color=grey>*(childishly but rebelliously)*</font> I'm going straight to Bumbles.
 
 Portia's aunt: No, my dear. If you were an ordinary girl it wouldn't matter. But, alas, we are not an ordinary family.
 
 <font color=grey>*(Aunt locks the door, with Portia desperately pounding from inside)*</font>
 
-Portia: Let me out!
+P.L. Let me out!
 
 ### Scene 4 (Henry's suite): Henry was pushed for payment.
 
-Lloyd: I don't wish to press you, Mr. Adams, but if vou could see your way to settling the account it will enable us to bring our books up-to-date.
+L.bum: I don't wish to press you, Mr. Adams, but if vou could see your way to settling the account it will enable us to bring our books up-to-date.
 
-Henry: I thought you said there was no hurry.
+H.A.: I thought you said there was no hurry.
 
-Lloyd: But it is customary to settle weekly at Bumbles. But naturally, in your case, we were happy to enlengthen it to three weeks. If you'll kindly settle the bill, Mr. Adams, we'll detain you no longer.
+L.bum: But it is customary to settle weekly at Bumbles. But naturally, in your case, we were happy to enlengthen it to three weeks. If you'll kindly settle the bill, Mr. Adams, we'll detain you no longer.
 
-Narrator: At first, Henry was quite uneasy on hearing Lloyd's words. The million-note-are desperately wanted to find a hole in the ground. That's when he thought about Portia in the morning, and suddenly a beam of light came to his mind - his shares in Hastings' gold mine business!
+N.: At first, Henry was quite uneasy on hearing Lloyd's words. The million-note-are desperately wanted to find a hole in the ground. That's when he thought about Portia in the morning, and suddenly a beam of light came to his mind - his shares in Hastings' gold mine business!
 
-Henry: <font color=grey>*(pensive, but then delighted when he reminisced of Hastings' shares)*</font> I'll settle my accounts in full this aternoon. It so happens that my real fortune is tied up in mining ... gold mining. Well, good morning, gentlemen. You're a fascinating species. Sometime you must take a good look at yourselves <font color=grey>*(hurry out the doorway, arrogant)*</font> ... under a microscope.
+H.A.: <font color=grey>*(pensive, but then delighted when he reminisced of Hastings' shares)*</font> I'll settle my accounts in full this aternoon. It so happens that my real fortune is tied up in mining ... gold mining. Well, good morning, gentlemen. You're a fascinating species. Sometime you must take a good look at yourselves <font color=grey>*(hurry out the doorway, arrogant)*</font> ... under a microscope.
 
 ### Scene 5 (Stock Exchange):
 
-Hastings: <font color=grey>*(eager, desperate)*</font> Have you found the note?
+L.H.: <font color=grey>*(eager, desperate)*</font> Have you found the note?
 
-Henry: I want to sell those shares of mine.
+H.A.: I want to sell those shares of mine.
 
-Hastings: Sell? Why, nobody would accept those shares as a gift. You've ruined me, my boy. I'm finished.
+L.H.: Sell? Why, nobody would accept those shares as a gift. You've ruined me, my boy. I'm finished.
 
-Henry: What are you talking about? You told me yourself that they were worth twenty thousand pounds.
+H.A.: What are you talking about? You told me yourself that they were worth twenty thousand pounds.
 
-Hastings: <font color="grey">*(indifferent)*</font> That was yesterday. <font color=grey>*(stress)*</font> The note, Henry, where is it? You did have one, didn't you?
+L.H.: <font color="grey">*(indifferent)*</font> That was yesterday. <font color=grey>*(stress)*</font> The note, Henry, where is it? You did have one, didn't you?
 
-Henry: Well, of course, I had one. Isn't there any sanity left around here? Where does all this *up and down* business go on?
+H.A.: Well, of course, I had one. Isn't there any sanity left around here? Where does all this *up and down* business go on?
 
-Hastings: Thromorton Street - the Stock Exchange.
+L.H.: Thromorton Street - the Stock Exchange.
 
-Henry: That's where I'm going.
+H.A.: That's where I'm going.
 
-Hastings: Wait! Don't go, Henry! You'll be ...
+L.H.: Wait! Don't go, Henry! You'll be ...
 
 <font color=grey>*(Henry rushed out the doorway, leaving Hastings pounding his chest, crying.)*</font>
 
-## Act 10. Henry wanted to tell people to focus on money, but they just cared about the note and Henry was nearly killed. The twist came when the Duke of Frognal *found* the note and people went crazy again.
+## Act 8. Henry wanted to tell people to focus on money, but they just cared about the note and Henry was nearly killed. The twist came when the Duke of Frognal *found* the note and people went crazy again.
 
 <font color=grey>*(Corresponding acts of Henry being thrown out of the Stock Exchange may be added.)*</font>
 
-Narrator: Henry returned to the Bumbles, literally in rags. Shortly before he was thrown out of the Stock Exchange by a group of angry investors. Once again, he saw a crowd of *gentlemen* screaming and bustling in hall. Henry has been used to this sharp rise and fall in fame, just like in the stock market, but nevertheless, he still felt an element of despair and doubt - why have those who once complimented him with indisputable sincerity turned into such ugly creatures?
+N.: Henry returned to the Bumbles, literally in rags. Shortly before he was thrown out of the Stock Exchange by a group of angry investors. Once again, he saw a crowd of *gentlemen* screaming and bustling in hall. Henry has been used to this sharp rise and fall in fame, just like in the stock market, but nevertheless, he still felt an element of despair and doubt - why have those who once complimented him with indisputable sincerity turned into such ugly creatures?
 
-Henry: Ladies and gentlemen <font color=grey>*(interrupted, shouting "that's him, the imposter!")*</font> ... Ladies and gentlemen. I understand that you've all come here for me and your money in the Good Hope Gold Mine ... <font color=grey>*(interrupted, shouting "yeah!")*</font> I can sympathasize with your feelings ... <font color=grey>*(interrupted, shouting "What about the note?")*</font> Ladies and gentlemen, if you'll just listen to me for a minute, you'll see that far from need for panic, you've all made what will turn out to be a very sound investment. **<font color=grey>(/ THIS IS WHERE ^ BEGINS /) ...... </font>** turn into murmurs <font color=grey>*(pantomine)*</font>
+H.A.: Ladies and gentlemen <font color=grey>*(interrupted, shouting "that's him, the imposter!")*</font> ... Ladies and gentlemen. I understand that you've all come here for me and your money in the Good Hope Gold Mine ... <font color=grey>*(interrupted, shouting "yeah!")*</font> I can sympathasize with your feelings ... <font color=grey>*(interrupted, shouting "What about the note?")*</font> Ladies and gentlemen, if you'll just listen to me for a minute, you'll see that far from need for panic, you've all made what will turn out to be a very sound investment. **<font color=grey>(/ THIS IS WHERE ^ BEGINS /) ...... </font>** turn into murmurs <font color=grey>*(pantomine)*</font>
 
 ---
 **^ <font color=grey>*(concurrent with the previous line, at the front gate of Bumbles')*</font>**
 
 <font color=grey>*(Duke of Frognal rushed toward the front door.)*</font>
 
-Duke of Frognal: <font color=grey>*(Panting)*</font> What the devil is going on?
+D.F. <font color=grey>*(Panting)*</font> What the devil is going on?
 
 Gatekeeper: Fine old hullabaloo, sir. The hunt's up. Mark you, he's given them a run for their money.
 
-Duke of Frognal: Don't talk in riddles, man. Make yourself clear.
+D.F. Don't talk in riddles, man. Make yourself clear.
 
 Gatekeeper: Henry Adams, sir, and the cheque!
 
-Narrator: A sophisticated englishman as he is, Duke of Frognal had really not expected things to go this far. He realized that his vindictive acts may soon end up in chaos. He mumbled about Renie's errant behavior, and went straight into the corridor.
+N.: A sophisticated englishman as he is, Duke of Frognal had really not expected things to go this far. He realized that his vindictive acts may soon end up in chaos. He mumbled about Renie's errant behavior, and went straight into the corridor.
 
 <font color=grey>*(in the hallway)*</font>
 
 Renie: Sir, sir, it's all right.
 
-Duke of Frognal: What's all right?
+D.F. What's all right?
 
 Renie: The Bridal Suite. You're getting it back.
 
-Duke of Frognal: What!
+D.F. What!
 
 <font color=grey>*(Servants and maids paraded through the corridor, holding sheets and Henry's luggage.)*</font>
 
-Duke of Frognal: <font color=grey>*(shouting toward the maids and servants)*</font> How dare you! Dashed impertinence. Take them back at once. Who do you think you are? <font color=grey>*(to Renie)*</font> This has gone too far! A lark's one thing, but when a fellow's expected to pay his tailor's bill, it's no joke. Come with me.
+D.F. <font color=grey>*(shouting toward the maids and servants)*</font> How dare you! Dashed impertinence. Take them back at once. Who do you think you are? <font color=grey>*(to Renie)*</font> This has gone too far! A lark's one thing, but when a fellow's expected to pay his tailor's bill, it's no joke. Come with me.
 
-Narrator: To Duke of Frognal, there's been a great deal of hysteria over what is, after all, nothing more than a plain scrap of paper.
+N.: To Duke of Frognal, there's been a great deal of hysteria over what is, after all, nothing more than a plain scrap of paper.
 
 ---
 
-Henry: Mr. Lloyd Hastings has such faith in your gold mine shares that ... <font color=grey>*(Henry slowly took of his jacket, and meanwhile a man gives Henry a blow on the head, Henry fell to the ground, and nearly fainted)*</font>
+H.A.: Mr. Lloyd Hastings has such faith in your gold mine shares that ... <font color=grey>*(Henry slowly took of his jacket, and meanwhile a man gives Henry a blow on the head, Henry fell to the ground, and nearly fainted)*</font>
 
 Crowd: <font color=grey>*(scream)*</font> No fighting!
 
 <font color=green>*(Cheerful music, such as reveille)*</font>
 
-Duke of Frognal: The note! The blasted note!
+D.F. The note! The blasted note!
 
 Crowd: <font color=grey>*(Crowd first confused, then hoarded out of the hall.)*</font> He has the note!
 
-Henry: Where was it?
+H.A.: Where was it?
 
-Duke of Frognal: Under the carpet, my instructions.
+D.F. Under the carpet, my instructions.
 
-Henry: Why on earth did you do that?
+H.A.: Why on earth did you do that?
 
-Duke of Frognal: I don't like those upstarts like you and what you do with the money either. But somehow I've gone too far. I'm a gentleman, an English gentleman, not a bit like those flocks of birds who sought for money wherever it goes, and it's time I apologize to you, sincerely. You're entitled to throw down the glove.
+D.F. I don't like those upstarts like you and what you do with the money either. But somehow I've gone too far. I'm a gentleman, an English gentleman, not a bit like those flocks of birds who sought for money wherever it goes, and it's time I apologize to you, sincerely. You're entitled to throw down the glove.
 
-Henry: <font color=grey>*(grin)*</font> Well, since I haven't got a glove, I'll have to accept your apology.
+H.A.: <font color=grey>*(grin)*</font> Well, since I haven't got a glove, I'll have to accept your apology.
 
-Duke of Frognal: You're the most charitable Yankees I've ever seen. I'm beginning to like you. Young man, you'll make the grade in the future.
+D.F. You're the most charitable Yankees I've ever seen. I'm beginning to like you. Young man, you'll make the grade in the future.
 
 <font color=grey>*(Duke of Frognal pats Henry on the shoulder and walked away. Servants gathered around Henry and began helping him put on the jacket)*</font>
 
 <font color=grey>*(On Henry's side of the stage, sevants and maids clustered around him. Meanwhile narrator reads the following line.)*</font>
 
-Narrator: Remember Portia? Well, as soon as the million pound note was found, the shares price of Good Hope mines peaked again, and Portia's aunt was quite content to receive the five thousand pounds that Henry has promised her. Busy counting money and boasting about her blueprint for the money, Portia's aunt definitely Portia to continue her relationship with Henry. But Portia never cared about those filthy bits of paper - she just badly wanted to see Henry.
+N.: Remember Portia? Well, as soon as the million pound note was found, the shares price of Good Hope mines peaked again, and Portia's aunt was quite content to receive the five thousand pounds that Henry has promised her. Busy counting money and boasting about her blueprint for the money, Portia's aunt definitely Portia to continue her relationship with Henry. But Portia never cared about those filthy bits of paper - she just badly wanted to see Henry.
 
 <font color=grey>*(Portia was escorted into the hall)*</font>
 
-Portia: Henry! Oh, Henry.
+P.L. Henry! Oh, Henry.
 
 <font color=grey>*(Without further words, the two hugged and kissed)*</font>
 
 <font color=grey>*(Stage Reset)*</font>
 
-## Act 11. Henry returned the cheque and refused what the two brothers offered.
+## Act 9. Henry returned the cheque and refused what the two brothers offered.
 
 Actors: Henry Adams, Oliver Montpelier, Roderick Montpelier, Portia Langham, Narrator
 

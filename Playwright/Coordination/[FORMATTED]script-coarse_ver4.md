@@ -853,7 +853,7 @@ Duke of Frognal: I don't like Yankees and what you do with the money either. But
 Henry: Well, since I haven't got a glove, I'll have to accept your apology.
 
 Duke of Frognal: You're a sportsman. I'm beginning to like you.
-
+****
 Crowd: Good heavens! The man's all right. <font color=grey>*(rush out the Bumbles)*</font>
 
 # something needs to be added here
