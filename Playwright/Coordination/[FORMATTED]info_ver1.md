@@ -12,6 +12,7 @@ For all the actors and actresses, when you are performing on stage, please read 
     |Henry Adams|H.A.|  The main character| |
     |Lloyd Hastings| L.H.| Henry's friend| |
     |Portia Langham|P.L.| Henry's sweetheart & wife| |
+    | Duke of Frognal | D.F. | Previous Bridle Suite owner; wealthy but acts like a real gentleman ||
 
 - Supporting roles:
 
@@ -28,6 +29,7 @@ For all the actors and actresses, when you are performing on stage, please read 
     | Clothes Shop Salesman 1 | C.S.S.1 | Clothes shop salesman                                                       ||
     | Clothes Shop Salesman 2 | C.S.S.2 | Clothes shop salesman                                                       ||
     | Clothes Shop Manager    | C.S.M   | Clothes shop manager                                                        ||
+    | Lloyd (Bumbles manager) | L.bum | Manager of Bumbles ||
 
 ## 3. About stage work
 1. **Costumes**: Every actor/actress should prepare costumes that suit the character. I'm not an expert, and therefore I would recommend you refer to the movie A Million Pounds (1954) or the original book by Mark Twain.
