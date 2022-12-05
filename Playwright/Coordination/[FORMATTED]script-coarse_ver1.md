@@ -7,22 +7,25 @@ Leading Actors:
 
 | Name | Abbr. | role |
 | ---- | ----- | ---- |
-|Henry Adams|H.A.|  the main character|
+|Henry Adams|H.A.|  The main character|
 |Lloyd Hastings| L.H.| Henry's friend|
 |Portia Langham|P.L.| Henry's sweetheart & wife|
 
-Others:
-Narrator (N)
-Oliver Montpelier (O.M.)
-Roderick Montpelier (R.M.)
-Mr. Garrat (Mr. G)
-Montpelier's butler (M.b)
-Restaurant Owner (Res.O.)
-Restaurant Manager (Res.M.)
-Restaurant Waiter (Res.W.)
-Clothes Shop Salesman 1(C.S.S.1)
-Clothes Shop Salesman 2(C.S.S.2)
-Clothes Shop Manager(C.S.M)
+Supporting roles:
+
+| Name                    | Abbr.   | role                                                                        |
+|-------------------------|---------|-----------------------------------------------------------------------------|
+| Narrator                | N.      | Gives an objective account of the story                                     |
+| Oliver Montpelier       | O.M.    | One of the wealthy twins; believes the cheque can buy anything              |
+| Roderick Montpelier     | R.M.    | One of the wealthy twins; believes the cheque is useless without withdrawal |
+| Mr. Garrat              | Mr. G   | Bank manager who presented the cheque to the Montpeliers                 |
+| Montpelier's butler     | M.b.    | The Montpelier's butler                                                     |
+| Restaurant Owner        | Res. O. | Restaurant owner                                                            |
+| Restaurant Manager      | Res. M. | Restaurant manager                                                          |
+| Restaurant Waiter       | Res. W. | Restaurant waiter                                                           |
+| Clothes Shop Salesman 1 | C.S.S.1 | Clothes shop salesman                                                       |
+| Clothes Shop Salesman 2 | C.S.S.2 | Clothes shop salesman                                                       |
+| Clothes Shop Manager    | C.S.M   | Clothes shop manager                                                        |
 
 Costumes: Every actor/actress should prepare costumes that suit the character. I'm not an expert, and therefore I would recommend you refer to the movie A Million Pounds (1954) or the original book by Mark Twain.
 
