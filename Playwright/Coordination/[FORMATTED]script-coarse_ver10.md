@@ -511,15 +511,15 @@ N.: Henry has earned huge sums of money from the gold mine deal, and on hearing 
 
 D.F. <font color=grey>*(pounding bank notes onto the counter)*</font> 490, 495, 500 pounds.
 
-L.bum: Thank you, your grace.
+M.bum: Thank you, your grace.
 
 D.F. Not at all. <font color=grey>*(with a sharp change in tone)*</font> Now what I require is a definitive explanation of this yankee american's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs!
 
-L.bum: Well, we could accommodate you in the Marborough Suite, which is equally luxurious and enjoyable.
+M.bum: Well, we could accommodate you in the Marborough Suite, which is equally luxurious and enjoyable.
 
 D.F. No, I want my old suite back. It's a question of principle.
 
-L.bum: He's a public figure, your grace, of considerable standing.
+M.bum: He's a public figure, your grace, of considerable standing.
 
 D.F. Stuff and nonsense! <font color=grey>*(irritated, angrily leaves the counter without even picking up the bank notes)*</font>
 
@@ -561,11 +561,11 @@ P.L. Let me out!
 
 ### Scene 4 (Henry's suite): Henry was pushed for payment.
 
-L.bum: I don't wish to press you, Mr. Adams, but if vou could see your way to settling the account it will enable us to bring our books up-to-date.
+M.bum: I don't wish to press you, Mr. Adams, but if vou could see your way to settling the account it will enable us to bring our books up-to-date.
 
 H.A.: I thought you said there was no hurry.
 
-L.bum: But it is customary to settle weekly at Bumbles. But naturally, in your case, we were happy to enlengthen it to three weeks. If you'll kindly settle the bill, Mr. Adams, we'll detain you no longer.
+M.bum: But it is customary to settle weekly at Bumbles. But naturally, in your case, we were happy to enlengthen it to three weeks. If you'll kindly settle the bill, Mr. Adams, we'll detain you no longer.
 
 N.: At first, Henry was quite uneasy on hearing Lloyd's words. The million-note-are desperately wanted to find a hole in the ground. That's when he thought about Portia in the morning, and suddenly a beam of light came to his mind - his shares in Hastings' gold mine business!
 
