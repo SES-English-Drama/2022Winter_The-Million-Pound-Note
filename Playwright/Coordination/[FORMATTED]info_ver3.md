@@ -7,18 +7,18 @@ For all the actors and actresses, when you are performing on stage, please read 
 ## 2. Cast
 
 - Leading Actors:
-  
+
   | Name | Abbr. | role | performed by |
 | ---- | ----- | ---- | ------------ |
 |Henry Adams|H.A.|  The main character| |
 |Mr. Hastings| Mr.H.| Henry's friend| |
 |Portia Langham|P.L.| Henry's sweetheart & wife| |
 | Duke of Frognal | D.F. | Previous Bridle Suite owner; wealthy but acts like a real gentleman ||
-|Locke|Locke| Henry's friend, wrongly recognized by the receptionist who thought he was Henry Adams| |
-  
-  
+|Rock|Rock| Henry's mute friend, mistakened as Henry at first by M.bum| |
+
+
 - Supporting roles:
-  
+
   | Name                    | Abbr.   | role                                                                        | performed by |
 |-------------------------|---------|-----------------------------------------------------------------------------| -----|
 | Narrator                | N.      | Gives an objective account of the story                                     | |
@@ -42,8 +42,8 @@ For all the actors and actresses, when you are performing on stage, please read 
 | Guest 3 | G3| One of the guests invited to the party held by Duke.C. ||
 | Guest 4| G4| One of the guests invited to the party held by Duke.C. ||
 | Renie | Renie.bum| A maid at the Bumbles||
-  
-  
+
+
 
 ## 3. About stage work
 
