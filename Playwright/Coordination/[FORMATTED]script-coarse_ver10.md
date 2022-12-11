@@ -541,19 +541,19 @@ N.: <font color=grey>*(Renie.Bum acts correspondingly)*</font> And so Renie grac
 
 N.: In the evening, Duke of Frognal spread the rumors of Henry being a fake millionare to the guests present. At first, the act was a self-consolation per se, but soon the news spread by word of mouth and the next morning, an article titled *million pound mystery* was published on front page of the most eminent newspaper in London.
 
-Portia's aunt: ... that London Society has freely opened its doors to this notorious American visitor. An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
+Duchess.C.: ... that London Society has freely opened its doors to this notorious American visitor. An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
 
 <font color=grey>*(Portia ran out of the dining room)*</font>
 
-Portia's aunt: What extraodinary creatures women are! She told me she wasn't speaking to Henry Adams, and if we're going to avoid a scandal, she mustn't.
+Duchess.C.: What extraodinary creatures women are! She told me she wasn't speaking to Henry Adams, and if we're going to avoid a scandal, she mustn't.
 
 N.: Having been deeply captivated by the unsophisticated but sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
 
-<font color=grey>*(Portia's aunt enters Portia's room)*</font>
+<font color=grey>*(Duchess.C. enters Portia's room)*</font>
 
 P.L. <font color=grey>*(childishly but rebelliously)*</font> I'm going straight to Bumbles.
 
-Portia's aunt: No, my dear. If you were an ordinary girl it wouldn't matter. But, alas, we are not an ordinary family.
+Duchess.C.: No, my dear. If you were an ordinary girl it wouldn't matter. But, alas, we are not an ordinary family.
 
 <font color=grey>*(Aunt locks the door, with Portia desperately pounding from inside)*</font>
 
