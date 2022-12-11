@@ -204,7 +204,7 @@ N: Now our lucky dog Henry, who has no choice but accept the fact that he IS a m
 C.S.M: Tell Tod to serve him quickly and get him out of the side door.
 
 C.S.S.2: Yes, sir.
-*(</font><font color=grey> C.S.S.2 walking to the other side of the stage)*</font>
+</font><font color=grey> *(C.S.S.2 walking to the other side of the stage)*</font>
 
 H.A.: Is this the sort of thing that's worn in England?
 
@@ -273,11 +273,18 @@ Resetting: idk
 
 ## Act 3. H.A. got to know Rock and they became good friends.
 
-### Hotel receptionist leads H.A. into the lobby, while Rock is signing his name at the counter, with hotel manager standing beside him.
-
-### Stage Properties: A desk, with pen and paper on it, on one side of the stage (representing the reception desk of the hotel lobby), and a table, with food and drinks (if possible), on the opposite side (representing the restaurant).
-
 Actors: H.A., R.Bum, M.Bum, Rock, N.
+
+---
+
+Stage Properties:
+
+1. A desk with pen and paper on it on one side of the stage (representing the reception desk of the hotel lobby)
+2. A table with food and drinks on the opposite side (representing the restaurant).
+
+---
+
+<font color="grey">*(Hotel receptionist leads H.A. into the lobby, while Rock is signing his name at the counter, with hotel manager standing beside him.)*</font>
 
 N.: The hotel staff has mistaken Lloyd, a dumb man with shocking strength, for Adams. Lloyd was reluctant to leave, and the hotel staff decides to call the police.
 
@@ -319,11 +326,17 @@ H.A.: <font color=grey>*(Shakes hands with Rock)*</font> <font color=grey>*(To R
 
 ### Scene 1. Henry was invited to a party.
 
-### Stage Properties: A table on one side of the stage, guests 1-3 standing on the other side chatting, P.L. and her uncle sitting at the rear of the stage, Duchess standing at the front
+Actors: Duch (Duchess of Cromarty) (the host of the party), P.L., Duke (Duke of Cromarty, who is also P.L.’s uncle), H.A., Guests 1-4 (Guests 1-2 are females, Guests 3-4 are males), N.
 
-Actors: Duch (Duchess of Cromarty) (the host of the party), P.L.,
-Duke (Duke of Cromarty, who is also P.L.’s uncle), H.A., Guests 1-4 (Guests 1-2
-are females, Guests 3-4 are males), N.
+---
+
+Stage Properties:
+1. A table on one side of the stage
+
+---
+
+<font color="grey">*(Guests 1-3 standing on the other side chatting, P.L. and Duke.C. sitting at the rear of the stage, Duchess.C. standing at the front)*</font>
+
 
 N.: Henry Adams is introduced to a party at Hampshire house, the Duchess’s residence.
 
@@ -366,9 +379,15 @@ Guest 2: We must invite him to lunch!
 
 ### Scene 2. P.L. and her uncle (Duke of Cromarty) sit by a table talking.
 
-### Stage Properties: Henry and Duchess standing on one side of the stage, P.L. and her uncle sitting around a table on the other side.
-
 Actors: H.A., P.L., Duke (P.L.’s uncle), Duch, N.
+
+---
+Stage Properties:
+1. A table
+
+---
+
+<font color="grey">*(Henry and Duchess standing on one side of the stage, P.L. and her uncle sitting around a table on the other side)*</font>
 
 P.L.: Uncle?
 
@@ -424,15 +443,21 @@ N.: Henry is invited to the Home for Motherless Babies. After taking a look at t
 
 ## Act 5. Henry got tired and wanted to leave.
 
-## Stage Properties: H.A. lying on a bed (a sofa is ok). (Also need a way to show lights being turned on and off. If controlling the lights is too complicated, you can use a clicking sound.)
-
 Actors: H.A., Rock
 
-H.A.: <font color=grey>*(Talking in his dream)*</font> Leave me alone. Leave me alone. Can't pay. Can't pay. Oh, can't pay... <font color=grey>*(Waking up with a start)*</font> Locke? <font color=grey>*(Sitting up, yelling)*</font> Locke! Locke!
+---
+Stage Properties:
+1. a bed (or a sofa as an alternative)
+
+---
+<font color="grey">*(H.A. lying on a bed (a sofa is ok))*</font> <font color="orange">*(Also need a way to show lights being turned on and off. If controlling the lights is too complicated, you can use a clicking sound.)*</font>
+
+
+H.A.: <font color=grey>*(Talking in his dream)*</font> Leave me alone. Leave me alone. Can't pay. Can't pay. Oh, can't pay... <font color=grey>*(Waking up with a start)*</font> Rock? <font color=grey>*(Sitting up, yelling)*</font> Rock! Rock!
 
 Rock: <font color=grey>*(Entering Henry's room, turning on the lights hurriedly)*</font>
 
-H.A.: I can't go on with this, Locke. Not for another day!
+H.A.: I can't go on with this, Rock. Not for another day!
 
 Rock: <font color=grey>*(Walking towards Henry, worried)*</font>
 
@@ -454,19 +479,28 @@ Rock: <font color=grey>*(Turns the lights off, off the stage)*</font>
 
 <font color=grey>*(The next morning. Rock and Henry wake up and stand by the window)*</font> <font color=grey>*(Sound of birds singing)*</font>
 
-H.A.: <font color=grey>*(With surprise)*</font> Locke, look. Listen. Smell.
+H.A.: <font color=grey>*(With surprise)*</font> Rock, look. Listen. Smell.
 
 <font color=grey>*(Rock onto the stage, standing beside Henry)*</font>
 
-H.A.: <font color=grey>*(Cheerfully)*</font> Locke! We're not going. <font color=grey>*(Tapping Rock on the shoulder)*</font> Things always look bad at night. But in the morning the sun is shining and the birds are singing. We can't throw in the cards like this when the game is only halfway through.
+H.A.: <font color=grey>*(Cheerfully)*</font> Rock! We're not going. <font color=grey>*(Tapping Rock on the shoulder)*</font> Things always look bad at night. But in the morning the sun is shining and the birds are singing. We can't throw in the cards like this when the game is only halfway through.
 
 <font color=grey>*(Henry and Rock off the stage.)*</font>
 
 ## Act 6. Henry's fame started to influence the stockings of the gold mine.
 
-## Stage Properties: H.A. and Mr.H. sitting on 2 chairs side by side on one side of the stage (as two seats on the carriage) and a table with drinks and 2 cups on it, and two chairs on the other side of the stage
 
 Actors: H.A., Mr.H., N.
+
+---
+
+Stage Properties:
+1. 4 chairs
+2. some drinks, two cups
+
+---
+
+<font color="grey">*(H.A. and Mr.H. sitting on 2 chairs side by side on one side of the stage (as two seats on the carriage) and a table with drinks and 2 cups on it, and two chairs on the other side of the stage)*</font>
 
 N.: Henry has just professed his love to Portia at Hampshire House. Now a friend of Henry's, Lloyd, comes to visit him, and they are on the way to Bumble Hotel.
 
@@ -478,8 +512,7 @@ H.A.: <font color=grey>*(Daydreaming)*</font> <font color=grey>*(Contentedly)*</
 
 N.: Henry Adams is daydreaming about the time he had with Portia, not listening to Lloyd.
 
-<font color=grey>*(Background, as the driver reminding
-the passengers)*</font> Bumble, sir. We're here, sir.
+<font color=grey>*(Background, as the driver reminding the passengers)*</font> Bumble, sir. We're here, sir.
 
 H.A.: Well, we're here. Home already. Come on in and have a drink.
 
@@ -535,7 +568,7 @@ D.F. Come on, be a sport. It's only a bit of fun. You can say it was my orders.
 
 <font color=grey>*(Renie.Bum grinned seductively towards Duke of Frognal)*</font>
 
-N.: <font color=grey>*(Renie.Bum acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Locke didn't even took notice of Renie's presence.
+N.: <font color=grey>*(Renie.Bum acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Rock didn't even took notice of Renie's presence.
 
 <font color=grey>*(Renie.Bum returned to Duke of Frognal who feigned a praise and left)*</font>
 
