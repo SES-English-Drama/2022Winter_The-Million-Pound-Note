@@ -269,9 +269,9 @@ C.S.M: The very place, quiet, modest and discretion itself. <font color=grey>*(w
 Withdrawal: Everything on the stage
 Resetting: idk
 
-## Act 3. H.A. got to know L. and they became good friends.
+## Act 3. H.A. got to know Rock and they became good friends.
 
-### Hotel receptionist leads H.A. into the lobby, while L. is signing his name at the counter, with hotel manager standing beside him.
+### Hotel receptionist leads H.A. into the lobby, while Rock is signing his name at the counter, with hotel manager standing beside him.
 
 ### Stage Properties: A desk, with pen and paper on it, on one side of the stage (representing the reception desk of the hotel lobby), and a table, with food and drinks (if possible), on the opposite side (representing the restaurant).
 
@@ -279,25 +279,25 @@ Actors: H.A., R.Bum, M.Bum, Rock, N.
 
 N.: The hotel staff has mistaken Lloyd, a dumb man with shocking strength, for Adams. Lloyd was reluctant to leave, and the hotel staff decides to call the police.
 
-L.: <font color=grey>*(Frowns, glares at Manager aggressively)*</font>
+Rock: <font color=grey>*(Frowns, glares at Manager aggressively)*</font>
 
-R.bum: <font color=grey>*(Leads L. away)*</font>
+R.bum: <font color=grey>*(Leads Rock away)*</font>
 
-L.: <font color=grey>*(Knocks receptionist down)*</font>
+Rock: <font color=grey>*(Knocks receptionist down)*</font>
 
-H.A.: Just a minute. I don’t think we need the police. I’d like to have a talk with this gentleman. <font color=grey>*(Walks towards L.)*</font>
+H.A.: Just a minute. I don’t think we need the police. I’d like to have a talk with this gentleman. <font color=grey>*(Walks towards Rock)*</font>
 
-L.: <font color=grey>*(Points at his throat)*</font>
+Rock: <font color=grey>*(Points at his throat)*</font>
 
 H.A.: You can’t talk?
 
-L.: <font color=grey>*(Nods)*</font>
+Rock: <font color=grey>*(Nods)*</font>
 
 H.A.: Well, that doesn’t affect your drinking habits, does it?
 
-L.: <font color=grey>*(Smiles)*</font>
+Rock: <font color=grey>*(Smiles)*</font>
 
-H.A.: <font color=grey>*(Pats L. on the shoulder, leading him to a table)*</font> <font color=grey>*(To manager)*</font> Then perhaps you’ll be kind enough to lead the way for us.
+H.A.: <font color=grey>*(Pats Rock on the shoulder, leading him to a table)*</font> <font color=grey>*(To manager)*</font> Then perhaps you’ll be kind enough to lead the way for us.
 
 N.: Adams learns that the dumb man works in a circus, and invites him to have a meal. He then talks about the million-pound bank note he received from the brothers, and their promise to grant him any job he requests.
 
@@ -305,13 +305,13 @@ H.A.: All I was doing was walking around looking for a job, and now look what’
 
 H.A.: And that’s where you could come in! Are you very busy these days?
 
-L.: <font color=grey>*(Shakes his head)*</font>
+Rock: <font color=grey>*(Shakes his head)*</font>
 
 H.A.: Well, that’s great! Then why don’t you stay with me for the next four weeks? Help me to keep the bank note intact?
 
-L.: <font color=grey>*(Holds out his hand)*</font>
+Rock: <font color=grey>*(Holds out his hand)*</font>
 
-H.A.: <font color=grey>*(Shakes hands with L.)*</font> <font color=grey>*(To L., proudly)*</font> For the next month, I’m H.A., the American Millionaire.
+H.A.: <font color=grey>*(Shakes hands with Rock)*</font> <font color=grey>*(To Rock, proudly)*</font> For the next month, I’m H.A., the American Millionaire.
 
 ## Act 4. Henry was introduced to the upper class.
 
@@ -424,51 +424,51 @@ N.: Henry is invited to the Home for Motherless Babies. After taking a look at t
 
 ## Stage Properties: H.A. lying on a bed (a sofa is ok). (Also need a way to show lights being turned on and off. If controlling the lights is too complicated, you can use a clicking sound.)
 
-Actors: H.A., L.
+Actors: H.A., Rock
 
 H.A.: <font color=grey>*(Talking in his dream)*</font> Leave me alone. Leave me alone. Can't pay. Can't pay. Oh, can't pay... <font color=grey>*(Waking up with a start)*</font> Locke? <font color=grey>*(Sitting up, yelling)*</font> Locke! Locke!
 
-L.: <font color=grey>*(Entering Henry's room, turning on the lights hurriedly)*</font>
+Rock: <font color=grey>*(Entering Henry's room, turning on the lights hurriedly)*</font>
 
 H.A.: I can't go on with this, Locke. Not for another day!
 
-L.: <font color=grey>*(Walking towards Henry, worried)*</font>
+Rock: <font color=grey>*(Walking towards Henry, worried)*</font>
 
 H.A.: We're overloaded with dept and we're getting deeper every minute. It's like walking on sand. How much of the Ambassador's money do we have left?
 
-L.: <font color=grey>*(Signals “none” to Henry)*</font>
+Rock: <font color=grey>*(Signals "none" to Henry)*</font>
 
 H.A.: All gone? The charities?
 
-L.: <font color=grey>*(Nods his head)*</font>
+Rock: <font color=grey>*(Nods his head)*</font>
 
 H.A.: <font color=grey>*(Covering face with hands)*</font> <font color=grey>*(Resignedly)*</font> It costs money to be a millionaire. W-well, we've got to clear out of here somehow. <font color=grey>*(Firmly)*</font> We'll go into hiding until the end of the month. We have to go somewhere, I don't care where, just so we go. You fix it.
 
-L.: <font color=grey>*(Walks away, perplexed)*</font>
+Rock: <font color=grey>*(Walks away, perplexed)*</font>
 
 H.A.: <font color=grey>*(Lying down, relieved)*</font> Oh, that's a load off my mind. From now on the masquerade is over.
 
-L.: <font color=grey>*(Turns the lights off, off the stage)*</font>
+Rock: <font color=grey>*(Turns the lights off, off the stage)*</font>
 
-<font color=grey>*(The next morning. L. and Henry wake up and stand by the window)*</font> <font color=grey>*(Sound of birds singing)*</font>
+<font color=grey>*(The next morning. Rock and Henry wake up and stand by the window)*</font> <font color=grey>*(Sound of birds singing)*</font>
 
 H.A.: <font color=grey>*(With surprise)*</font> Locke, look. Listen. Smell.
 
-<font color=grey>*(L. onto the stage, standing beside Henry)*</font>
+<font color=grey>*(Rock onto the stage, standing beside Henry)*</font>
 
-H.A.: <font color=grey>*(Cheerfully)*</font> Locke! We're not going. <font color=grey>*(Tapping L. on the shoulder)*</font> Things always look bad at night. But in the morning the sun is shining and the birds are singing. We can't throw in the cards like this when the game is only halfway through.
+H.A.: <font color=grey>*(Cheerfully)*</font> Locke! We're not going. <font color=grey>*(Tapping Rock on the shoulder)*</font> Things always look bad at night. But in the morning the sun is shining and the birds are singing. We can't throw in the cards like this when the game is only halfway through.
 
-<font color=grey>*(Henry and L. off the stage.)*</font>
+<font color=grey>*(Henry and Rock off the stage.)*</font>
 
 ## Act 6. Henry's fame started to influence the stockings of the gold mine.
 
-## Stage Properties: H.A. and L.H. sitting on 2 chairs side by side on one side of the stage (as two seats on the carriage) and a table with drinks and 2 cups on it, and two chairs on the other side of the stage
+## Stage Properties: H.A. and Mr.H. sitting on 2 chairs side by side on one side of the stage (as two seats on the carriage) and a table with drinks and 2 cups on it, and two chairs on the other side of the stage
 
-Actors: H.A., L.H., N.
+Actors: H.A., Mr.H., N.
 
 N.: Henry has just professed his love to Portia at Hampshire House. Now a friend of Henry's, Lloyd, comes to visit him, and they are on the way to Bumble Hotel.
 
-L.H.: Now, Henry, you've got to help me. I'm in trouble, and you'll be able to get me out quite easily. I've made a large investment in a gold mine, the Good Hope Gold Mine.
+Mr.H.: Now, Henry, you've got to help me. I'm in trouble, and you'll be able to get me out quite easily. I've made a large investment in a gold mine, the Good Hope Gold Mine.
 
 H.A.: <font color=grey>*(Daydreaming)*</font> <font color=grey>*(Contentedly)*</font> Oh, what an unforgettable night I had with her. I won the heart of the dearest girl in this world! When I told her - I did, indeed - told her I loved her, she - well, she blushed till her hair turned red, but she liked it; she said she did. And she’s the only person I could be perfectly honest and square with. I told her I hadn't a cent in the world but just the million-pound note, and it didn't belong to me. I told her the whole story. She couldn’t believe it at first - but then she just laughed. She didn’t seem to mind it at all...
 
@@ -481,24 +481,24 @@ the passengers)*</font> Bumble, sir. We're here, sir.
 
 H.A.: Well, we're here. Home already. Come on in and have a drink.
 
-<font color=grey>*(H.A. and L.H. enter the hotel and sit down in their room (represented with a table))*</font>
+<font color=grey>*(H.A. and Mr.H. enter the hotel and sit down in their room (represented with a table))*</font>
 
-L.H.: Dear me! It's a palace - it's just a palace! Henry Adams, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry Adams, the mere unconsidered drippings of your daily income would -
+Mr.H.: Dear me! It's a palace - it's just a palace! Henry Adams, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry Adams, the mere unconsidered drippings of your daily income would -
 
 H.A.: Oh, my daily income! Here, down with this hot Scotch, and cheer up your soul. Here's with you! <font color=grey>*(Pours Scotch)*</font> Now, then, Lloyd, unreel your story.
 
-L.H.: Unreel it? Once more? I've already told you about it, Henry Adams. I've sunk everything I have into that mine. But there isn't one capitalist who'll take a chance. <font color=grey>*(Jumping up)*</font> <font color=grey>*(Desperately)*</font> Henry Adams, you can save me! You can save me, and you're the only man in the universe that can. Will you do it? Won't you do it?
+Mr.H.: Unreel it? Once more? I've already told you about it, Henry Adams. I've sunk everything I have into that mine. But there isn't one capitalist who'll take a chance. <font color=grey>*(Jumping up)*</font> <font color=grey>*(Desperately)*</font> Henry Adams, you can save me! You can save me, and you're the only man in the universe that can. Will you do it? Won't you do it?
 
 H.A.: Tell me how. Speak out, my boy.
 
-L.H.: Give me a million for the marketing rights of the mine! <font color=grey>*(Nervously)*</font> Don't, don't refuse!
+Mr.H.: Give me a million for the marketing rights of the mine! <font color=grey>*(Nervously)*</font> Don't, don't refuse!
 
 H.A.: <font color=grey>*(Worriedly, for he knows himself that not a penny of the million pounds belongs to himself)*</font> But- <font color=grey>*(Trying to be calm)*</font> I will save you, Lloyd-
 
-L.H.: Then I'm already saved! God be merciful to you forever! If ever I-
+Mr.H.: Then I'm already saved! God be merciful to you forever! If ever I-
 
 H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I will save you, but not in that way; for that would not be fair to you, after your hard work, and the risks you've run. I don't need to buy mines; I can keep my capital moving, in a commercial center like London. Here’s what I'll do. I know all about that mine, of course; I know its immense value, and can swear to it if anybody wishes it. You shall sell it within two weeks, for three millions cash. Use my name freely, and we'll divide the profits.
 
-L.H.: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
+Mr.H.: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
 
-<font color=grey>*(L.H. and H.A. off the stage.)*</font>
+<font color=grey>*(Mr.H. and H.A. off the stage.)*</font>
