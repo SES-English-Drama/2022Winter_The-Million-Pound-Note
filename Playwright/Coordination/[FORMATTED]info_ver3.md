@@ -35,7 +35,7 @@ For all the actors and actresses, when you are performing on stage, please read 
 | Bumbles Manager         | M.bum   | Manager of Bumbles                                                          |              |
 | Receptionist            | R.bum   | A receptionist of Bumbles                                                   |              |
 | Crowd                   | Crowd   | Crowd                                                                       |              |
-| Duchess of Cromarty     | Duchess.C. | Duchess of Cromarty                                                      |              |
+| Duchess of Cromarty     | Duchess.C. | Duchess of Cromarty, Portia's aunt                                       |              |
 | Duke of Cromarty        | Duke.C.    | Duke of Cromarty, Portia's uncle                                         |              |
 | Guest 1                 | G1         | One of the guests invited to the party held by Duke.C.                   |              |
 | Guest 2                 | G2         | One of the guests invited to the party held by Duke.C.                   |              |
