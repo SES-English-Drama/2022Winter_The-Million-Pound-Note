@@ -525,17 +525,17 @@ D.F. Stuff and nonsense! <font color=grey>*(irritated, angrily leaves the counte
 
 ### Scene 2 (cloakroom): Duke of Frognal convinced Renie, the maid into hiding the cheque.
 
-<font color=grey>*(Duke of Frognal whispered to Renie)*</font>
+<font color=grey>*(Duke of Frognal whispered to Renie.Bum)*</font>
 
-Renie: I couldn't sir. What if I were caught?
+Renie.Bum: I couldn't sir. What if I were caught?
 
 D.F. Come on, be a sport. It's only a bit of fun. You can say it was my orders.
 
-<font color=grey>*(Renie grinned seductively towards Duke of Frognal)*</font>
+<font color=grey>*(Renie.Bum grinned seductively towards Duke of Frognal)*</font>
 
-N.: <font color=grey>*(Renie acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Locke didn't even took notice of Renie's presence.
+N.: <font color=grey>*(Renie.Bum acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Locke didn't even took notice of Renie's presence.
 
-<font color=grey>*(Renie returned to Duke of Frognal who feigned a praise and left)*</font>
+<font color=grey>*(Renie.Bum returned to Duke of Frognal who feigned a praise and left)*</font>
 
 ### Scene 3 (Portia's mansion): Soon rumor arose about the millionare's authenticity.
 
@@ -618,17 +618,17 @@ N.: A sophisticated englishman as he is, Duke of Frognal had really not expected
 
 <font color=grey>*(in the hallway)*</font>
 
-Renie: Sir, sir, it's all right.
+Renie.Bum: Sir, sir, it's all right.
 
 D.F. What's all right?
 
-Renie: The Bridal Suite. You're getting it back.
+Renie.Bum: The Bridal Suite. You're getting it back.
 
 D.F. What!
 
 <font color=grey>*(Servants and maids paraded through the corridor, holding sheets and Henry's luggage.)*</font>
 
-D.F. <font color=grey>*(shouting toward the maids and servants)*</font> How dare you! Dashed impertinence. Take them back at once. Who do you think you are? <font color=grey>*(to Renie)*</font> This has gone too far! A lark's one thing, but when a fellow's expected to pay his tailor's bill, it's no joke. Come with me.
+D.F. <font color=grey>*(shouting toward the maids and servants)*</font> How dare you! Dashed impertinence. Take them back at once. Who do you think you are? <font color=grey>*(to Renie.Bum)*</font> This has gone too far! A lark's one thing, but when a fellow's expected to pay his tailor's bill, it's no joke. Come with me.
 
 N.: To Duke of Frognal, there's been a great deal of hysteria over what is, after all, nothing more than a plain scrap of paper.
 
