@@ -19,27 +19,27 @@ For all the actors and actresses, when you are performing on stage, please read 
 
 - Supporting roles:
 
-  | Name                    | Abbr.   | role                                                                        | performed by |
-|-------------------------|---------|-----------------------------------------------------------------------------| -----|
-| Narrator                | N.      | Gives an objective account of the story                                     | |
-| Oliver Montpelier       | O.M.    | One of the wealthy twins; believes the cheque can buy anything              ||
-| Roderick Montpelier     | R.M.    | One of the wealthy twins; believes the cheque is useless without withdrawal ||
-| Mr. Garrat              | Mr. G   | Bank manager who presented the cheque to the Montpeliers                 ||
-| Montpelier's butler     | M.b.    | The Montpelier's butler                                                    | |
-| Restaurant Owner        | Res. O. | Restaurant owner                                                            ||
-| Restaurant Manager      | Res. M. | Restaurant manager                                                          ||
-| Restaurant Waiter       | Res. W. | Restaurant waiter                                                           ||
-| Clothes Shop Salesman 1 | C.S.S.1 | Clothes shop salesman                                                       ||
-| Clothes Shop Salesman 2 | C.S.S.2 | Clothes shop salesman                                                       ||
-| Clothes Shop Manager    | C.S.M   | Clothes shop manager                                                        ||
-| Bumbles Manager | M.bum | Manager of Bumbles ||
-| Receptionist | R.bum | A receptionist of Bumbles ||
-| Crowd | Crowd | Crowd ||
-| Duchess of Cromarty | Duchess.C.| Duchess of Cromarty ||
-| Duke of Cromarty | Duke.C.| Duke of Cromarty, Portia's uncle ||
-| Guest 1 | G1| One of the guests invited to the party held by Duke.C. ||
-| Guest 2 | G2| One of the guests invited to the party held by Duke.C. ||
-| Guest 3 | G3| One of the guests invited to the party held by Duke.C. ||
+| Name                    | Abbr.   | role                                                                        | performed by |
+|-------------------------|---------|-----------------------------------------------------------------------------|--------------|
+| Narrator                | N.      | Gives an objective account of the story                                     |              |
+| Oliver Montpelier       | O.M.    | One of the wealthy twins; believes the cheque can buy anything              |              |
+| Roderick Montpelier     | R.M.    | One of the wealthy twins; believes the cheque is useless without withdrawal |              |
+| Mr. Garrat              | Mr. G   | Bank manager who presented the cheque to the Montpeliers                    |              |
+| Montpelier's butler     | M.b.    | The Montpelier's butler                                                     |              |
+| Restaurant Owner        | Res. O. | Restaurant owner                                                            |              |
+| Restaurant Manager      | Res. M. | Restaurant manager                                                          |              |
+| Restaurant Waiter       | Res. W. | Restaurant waiter                                                           |              |
+| Clothes Shop Salesman 1 | C.S.S.1 | Clothes shop salesman                                                       |              |
+| Clothes Shop Salesman 2 | C.S.S.2 | Clothes shop salesman                                                       |              |
+| Clothes Shop Manager    | C.S.M   | Clothes shop manager                                                        |              |
+| Bumbles Manager         | M.bum   | Manager of Bumbles                                                          ||
+| Receptionist            | R.bum   | A receptionist of Bumbles                                                   ||
+| Crowd                   | Crowd   | Crowd                                                                       ||
+| Duchess of Cromarty     | Duchess.C. | Duchess of Cromarty                                                      ||
+| Duke of Cromarty        | Duke.C.    | Duke of Cromarty, Portia's uncle                                         ||
+| Guest 1                 | G1         | One of the guests invited to the party held by Duke.C.                   ||
+| Guest 2                 | G2         | One of the guests invited to the party held by Duke.C.                   ||
+| Guest 3                 | G3         | One of the guests invited to the party held by Duke.C.                   i||
 | Guest 4| G4| One of the guests invited to the party held by Duke.C. ||
 | Renie | Renie.bum| A maid at the Bumbles||
 
