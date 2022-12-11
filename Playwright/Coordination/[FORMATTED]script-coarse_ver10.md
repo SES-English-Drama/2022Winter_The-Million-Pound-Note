@@ -502,3 +502,232 @@ H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I
 Mr.H.: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
 
 <font color=grey>*(Mr.H. and H.A. off the stage.)*</font>
+
+## Act 7. The waitress of the hotel played a joke on Henry by concealing his cheque, which resulted in doubts and rumors and affected Henry's life.
+
+N.: Henry has earned huge sums of money from the gold mine deal, and on hearing that, Portia decides to leave him.
+
+### Scene 1 (hotel counter): Duke of Frognal and Lloyd had a bicker over Henry's occupancy of the suite.
+
+D.F. <font color=grey>*(pounding bank notes onto the counter)*</font> 490, 495, 500 pounds.
+
+L.bum: Thank you, your grace.
+
+D.F. Not at all. <font color=grey>*(with a sharp change in tone)*</font> Now what I require is a definitive explanation of this yankee american's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs!
+
+L.bum: Well, we could accommodate you in the Marborough Suite, which is equally luxurious and enjoyable.
+
+D.F. No, I want my old suite back. It's a question of principle.
+
+L.bum: He's a public figure, your grace, of considerable standing.
+
+D.F. Stuff and nonsense! <font color=grey>*(irritated, angrily leaves the counter without even picking up the bank notes)*</font>
+
+### Scene 2 (cloakroom): Duke of Frognal convinced Renie, the maid into hiding the cheque.
+
+<font color=grey>*(Duke of Frognal whispered to Renie)*</font>
+
+Renie: I couldn't sir. What if I were caught?
+
+D.F. Come on, be a sport. It's only a bit of fun. You can say it was my orders.
+
+<font color=grey>*(Renie grinned seductively towards Duke of Frognal)*</font>
+
+N.: <font color=grey>*(Renie acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Locke didn't even took notice of Renie's presence.
+
+<font color=grey>*(Renie returned to Duke of Frognal who feigned a praise and left)*</font>
+
+### Scene 3 (Portia's mansion): Soon rumor arose about the millionare's authenticity.
+
+N.: In the evening, Duke of Frognal spread the rumors of Henry being a fake millionare to the guests present. At first, the act was a self-consolation per se, but soon the news spread by word of mouth and the next morning, an article titled *million pound mystery* was published on front page of the most eminent newspaper in London.
+
+Portia's aunt: ... that London Society has freely opened its doors to this notorious American visitor. An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
+
+<font color=grey>*(Portia ran out of the dining room)*</font>
+
+Portia's aunt: What extraodinary creatures women are! She told me she wasn't speaking to Henry Adams, and if we're going to avoid a scandal, she mustn't.
+
+N.: Having been deeply captivated by the unsophisticated but sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
+
+<font color=grey>*(Portia's aunt enters Portia's room)*</font>
+
+P.L. <font color=grey>*(childishly but rebelliously)*</font> I'm going straight to Bumbles.
+
+Portia's aunt: No, my dear. If you were an ordinary girl it wouldn't matter. But, alas, we are not an ordinary family.
+
+<font color=grey>*(Aunt locks the door, with Portia desperately pounding from inside)*</font>
+
+P.L. Let me out!
+
+### Scene 4 (Henry's suite): Henry was pushed for payment.
+
+L.bum: I don't wish to press you, Mr. Adams, but if vou could see your way to settling the account it will enable us to bring our books up-to-date.
+
+H.A.: I thought you said there was no hurry.
+
+L.bum: But it is customary to settle weekly at Bumbles. But naturally, in your case, we were happy to enlengthen it to three weeks. If you'll kindly settle the bill, Mr. Adams, we'll detain you no longer.
+
+N.: At first, Henry was quite uneasy on hearing Lloyd's words. The million-note-are desperately wanted to find a hole in the ground. That's when he thought about Portia in the morning, and suddenly a beam of light came to his mind - his shares in Hastings' gold mine business!
+
+H.A.: <font color=grey>*(pensive, but then delighted when he reminisced of Hastings' shares)*</font> I'll settle my accounts in full this aternoon. It so happens that my real fortune is tied up in mining ... gold mining. Well, good morning, gentlemen. You're a fascinating species. Sometime you must take a good look at yourselves <font color=grey>*(hurry out the doorway, arrogant)*</font> ... under a microscope.
+
+### Scene 5 (Stock Exchange):
+
+L.H.: <font color=grey>*(eager, desperate)*</font> Have you found the note?
+
+H.A.: I want to sell those shares of mine.
+
+L.H.: Sell? Why, nobody would accept those shares as a gift. You've ruined me, my boy. I'm finished.
+
+H.A.: What are you talking about? You told me yourself that they were worth twenty thousand pounds.
+
+L.H.: <font color="grey">*(indifferent)*</font> That was yesterday. <font color=grey>*(stress)*</font> The note, Henry, where is it? You did have one, didn't you?
+
+H.A.: Well, of course, I had one. Isn't there any sanity left around here? Where does all this *up and down* business go on?
+
+L.H.: Thromorton Street - the Stock Exchange.
+
+H.A.: That's where I'm going.
+
+L.H.: Wait! Don't go, Henry! You'll be ...
+
+<font color=grey>*(Henry rushed out the doorway, leaving Hastings pounding his chest, crying.)*</font>
+
+## Act 8. Henry wanted to tell people to focus on money, but they just cared about the note and Henry was nearly killed. The twist came when the Duke of Frognal *found* the note and people went crazy again.
+
+<font color=grey>*(Corresponding acts of Henry being thrown out of the Stock Exchange may be added.)*</font>
+
+N.: Henry returned to the Bumbles, literally in rags. Shortly before he was thrown out of the Stock Exchange by a group of angry investors. Once again, he saw a crowd of *gentlemen* screaming and bustling in hall. Henry has been used to this sharp rise and fall in fame, just like in the stock market, but nevertheless, he still felt an element of despair and doubt - why have those who once complimented him with indisputable sincerity turned into such ugly creatures?
+
+H.A.: Ladies and gentlemen <font color=grey>*(interrupted, shouting "that's him, the imposter!")*</font> ... Ladies and gentlemen. I understand that you've all come here for me and your money in the Good Hope Gold Mine ... <font color=grey>*(interrupted, shouting "yeah!")*</font> I can sympathasize with your feelings ... <font color=grey>*(interrupted, shouting "What about the note?")*</font> Ladies and gentlemen, if you'll just listen to me for a minute, you'll see that far from need for panic, you've all made what will turn out to be a very sound investment. **<font color=grey>(/ THIS IS WHERE ^ BEGINS /) ...... </font>** turn into murmurs <font color=grey>*(pantomine)*</font>
+
+---
+**^ <font color=grey>*(concurrent with the previous line, at the front gate of Bumbles')*</font>**
+
+<font color=grey>*(Duke of Frognal rushed toward the front door.)*</font>
+
+D.F. <font color=grey>*(Panting)*</font> What the devil is going on?
+
+Gatekeeper: Fine old hullabaloo, sir. The hunt's up. Mark you, he's given them a run for their money.
+
+D.F. Don't talk in riddles, man. Make yourself clear.
+
+Gatekeeper: Henry Adams, sir, and the cheque!
+
+N.: A sophisticated englishman as he is, Duke of Frognal had really not expected things to go this far. He realized that his vindictive acts may soon end up in chaos. He mumbled about Renie's errant behavior, and went straight into the corridor.
+
+<font color=grey>*(in the hallway)*</font>
+
+Renie: Sir, sir, it's all right.
+
+D.F. What's all right?
+
+Renie: The Bridal Suite. You're getting it back.
+
+D.F. What!
+
+<font color=grey>*(Servants and maids paraded through the corridor, holding sheets and Henry's luggage.)*</font>
+
+D.F. <font color=grey>*(shouting toward the maids and servants)*</font> How dare you! Dashed impertinence. Take them back at once. Who do you think you are? <font color=grey>*(to Renie)*</font> This has gone too far! A lark's one thing, but when a fellow's expected to pay his tailor's bill, it's no joke. Come with me.
+
+N.: To Duke of Frognal, there's been a great deal of hysteria over what is, after all, nothing more than a plain scrap of paper.
+
+---
+
+H.A.: Mr. Lloyd Hastings has such faith in your gold mine shares that ... <font color=grey>*(Henry slowly took of his jacket, and meanwhile a man gives Henry a blow on the head, Henry fell to the ground, and nearly fainted)*</font>
+
+Crowd: <font color=grey>*(scream)*</font> No fighting!
+
+<font color=green>*(Cheerful music, such as reveille)*</font>
+
+D.F. The note! The blasted note!
+
+Crowd: <font color=grey>*(Crowd first confused, then hoarded out of the hall.)*</font> He has the note!
+
+H.A.: Where was it?
+
+D.F. Under the carpet, my instructions.
+
+H.A.: Why on earth did you do that?
+
+D.F. I don't like those upstarts like you and what you do with the money either. But somehow I've gone too far. I'm a gentleman, an English gentleman, not a bit like those flocks of birds who sought for money wherever it goes, and it's time I apologize to you, sincerely. You're entitled to throw down the glove.
+
+H.A.: <font color=grey>*(grin)*</font> Well, since I haven't got a glove, I'll have to accept your apology.
+
+D.F. You're the most charitable Yankees I've ever seen. I'm beginning to like you. Young man, you'll make the grade in the future.
+
+<font color=grey>*(Duke of Frognal pats Henry on the shoulder and walked away. Servants gathered around Henry and began helping him put on the jacket)*</font>
+
+<font color=grey>*(On Henry's side of the stage, sevants and maids clustered around him. Meanwhile narrator reads the following line.)*</font>
+
+N.: Remember Portia? Well, as soon as the million pound note was found, the shares price of Good Hope mines peaked again, and Portia's aunt was quite content to receive the five thousand pounds that Henry has promised her. Busy counting money and boasting about her blueprint for the money, Portia's aunt definitely Portia to continue her relationship with Henry. But Portia never cared about those filthy bits of paper - she just badly wanted to see Henry.
+
+<font color=grey>*(Portia was escorted into the hall)*</font>
+
+P.L. Henry! Oh, Henry.
+
+<font color=grey>*(Without further words, the two hugged and kissed)*</font>
+
+<font color=grey>*(Stage Reset)*</font>
+
+## Act 9. Henry returned the cheque and refused what the two brothers offered.
+
+Actors: Henry Adams, Oliver Montpelier, Roderick Montpelier, Portia Langham, Narrator
+
+---
+
+Stage Properties:
+
+1. a sofa (which can be replaced by beanbags)
+
+2. chairs/beanbags (to seat P.L. and H.A.)
+
+<font color=grey>*(O.M. and R.M. sitting on the sofa, P.L. and H.A. sitting on the chairs. All lights on.)*</font>
+
+---
+
+O.M.: One month to the day. In fact to the very hour. A little worse for wear, but still intact. Congratulations, Mr. Adams.
+
+H.A.: Well, now that I've, er... carried out my side of the bargain to your satisfaction. What was the bet?
+
+O.M.: Well, you see, I maintained that such is people's attitude to the symbol of wealth that by just having that little scrap of paper in your possesion without ever cashing it, you could have everything you wanted.
+
+R.M.: Whereas, I maintained that as you were denied the right to cash it, it would be quite useless to you. But I only have to look at you, Mr. Adams, to realize I was mistaken.
+
+O.M.: Never have I won a bet more conclusive. I tell you, Roderick, that note can do anything. It even made him 20,000 pounds n the Stock Exchange!
+
+P.L.: May I say something?
+
+R.M.: By all means, my dear.
+
+P.L.: I agree that the note is extremely powerful, but it isn't quite true to say that it can do anything. You see, I love Henry because he is Henry.
+
+H.A.: THE FACT IS THAT SHE LEFT ME WHEN SHE THOUGHT I WAS RICH, AND CAME BACK TO ME ONLY WHEN SHE DISCOVERED THAT I WAS REALLY POOR. he fact is that she left me when she thought I was rich, and came back to me only when she discovered that I was really poor. If anything, the note only came between us.
+
+R.M.: Oh. Oh! Did you hear that Oliver?
+
+<font color=grey>*(R.M. and O.M. start quarreling.)*</font>
+
+O.M.: Come, come, Mr.Adams. But for the note you'd never have met.
+
+<font color=green>*(music starts but faint at first, such as "Can't Buy Me Love", etc., but has to be oldstyle)*</font>
+
+---
+
+<font color=grey>*(The following quarrel soon turns into murmurs.)*</font>
+
+R.M.: <font color=grey>*(without pause)*</font> How do you know? They might have been fated to meet.
+
+O.M.: <font color=grey>*(without pause)*</font> We are not discussing what might have been. We're only concerned with the facts. You can't get out of it, Roderick, Mr. Adams returned the note intact and now has everything he wants. The mere fact that they had a lover's tiff has nothing to do with it...
+
+R.M.: <font color=grey>*(without pause)*</font> Precisely, and the note came between them. It <font color=orange>*(All lights out.)*</font>
+
+---
+
+<font color=skyblue>(Note: We expect the following narration to be well-received, so the line must be read clearly. We also tried to avoid using luxurious words.)</font>
+
+N: Shakespeare tells us, money can turn black into white, ugly into beautiful, cowards into warriors. Of course, these tiny scraps of paper can be one of the most economical ways to stimulate ones potentials. But in a society where money is , absurdity will be the ultimate trap. Adulation for the rich, despise of the poor, together with relentlessly magnified greed, make all the people disgustingly hypocritical. Unfortunately, we can't go without money. Yet still, we need to keep in mind: After all, Shakespeare also tells us that, if money can't bring peace and satisfaction, then a rich man is no better off than a poor one. From the bottom of your heart, there is certainly something more worthy of pursuit, like kindness and love. But for his earnestness, Henry wouldn't have won Portia's heart.
+
+<font color=green>*(advice: music becomes louder)*</font>
+
+<font color=orange>*(Lights on. Everyone onto the stage.)*</font>
