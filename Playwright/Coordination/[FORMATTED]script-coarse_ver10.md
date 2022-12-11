@@ -493,9 +493,9 @@ H.A.: Tell me how. Speak out, my boy.
 
 Mr.H.: Give me a million for the marketing rights of the mine! <font color=grey>*(Nervously)*</font> Don't, don't refuse!
 
-H.A.: <font color=grey>*(Worriedly, for he knows himself that not a penny of the million pounds belongs to himself)*</font> But- <font color=grey>*(Trying to be calm)*</font> I will save you, Lloyd-
+H.A.: <font color=grey>*(Worriedly, for he knows himself that not a penny of the million pounds belongs to himself)*</font> But- <font color=grey>*(Trying to be calm)*</font> I will save you, Lloyd ... <font color=grey>*(interrupted)*</font>
 
-Mr.H.: Then I'm already saved! God be merciful to you forever! If ever I-
+Mr.H.: Then I'm already saved! God be merciful to you forever! If ever I ... <font color="grey">*(interrupted)*</font>
 
 H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I will save you, but not in that way; for that would not be fair to you, after your hard work, and the risks you've run. I don't need to buy mines; I can keep my capital moving, in a commercial center like London. Here’s what I'll do. I know all about that mine, of course; I know its immense value, and can swear to it if anybody wishes it. You shall sell it within two weeks, for three millions cash. Use my name freely, and we'll divide the profits.
 
