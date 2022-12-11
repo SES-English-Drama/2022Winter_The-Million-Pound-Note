@@ -8,13 +8,13 @@ For all the actors and actresses, when you are performing on stage, please read 
 
 - Leading Actors:
 
-  | Name | Abbr. | role | performed by |
-| ---- | ----- | ---- | ------------ |
-|Henry Adams|H.A.|  The main character| |
-|Mr. Hastings| Mr.H.| Henry's friend| |
-|Portia Langham|P.L.| Henry's sweetheart & wife| |
-| Duke of Frognal | D.F. | Previous Bridle Suite owner; wealthy but acts like a real gentleman ||
-|Rock|Rock| Henry's mute friend, mistakened as Henry at first by M.bum| |
+| Name             | Abbr.  | role                                                                  | performed by |
+|------------------|--------|-----------------------------------------------------------------------|--------------|
+| Henry Adams      |H.A.    |  The main character                                                   |              |
+| Mr. Hastings     | Mr.H.  | Henry's friends                                                       |              |
+| Portia Langham   |P.L.    | Henry's sweetheart & wife                                             |              |
+| Duke of Frognal  | D.F.   | Previous Bridle Suite owner; wealthy but acts like a real gentleman   |              |
+| Roderick         |Rock    | Henry's mute friend, mistakened as Henry at first by M.Bum            |              |
 
 
 - Supporting roles:
