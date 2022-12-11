@@ -543,19 +543,19 @@ N.: In the evening, Duke of Frognal spread the rumors of Henry being a fake mill
 
 Duchess.C.: ... that London Society has freely opened its doors to this notorious American visitor. An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
 
-<font color=grey>*(Portia ran out of the dining room)*</font>
+<font color=grey>*(P.L. ran out of the dining room)*</font>
 
 Duchess.C.: What extraodinary creatures women are! She told me she wasn't speaking to Henry Adams, and if we're going to avoid a scandal, she mustn't.
 
 N.: Having been deeply captivated by the unsophisticated but sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
 
-<font color=grey>*(Duchess.C. enters Portia's room)*</font>
+<font color=grey>*(Duchess.C. enters P.L.'s room)*</font>
 
 P.L. <font color=grey>*(childishly but rebelliously)*</font> I'm going straight to Bumbles.
 
 Duchess.C.: No, my dear. If you were an ordinary girl it wouldn't matter. But, alas, we are not an ordinary family.
 
-<font color=grey>*(Aunt locks the door, with Portia desperately pounding from inside)*</font>
+<font color=grey>*(Aunt locks the door, with P.L. desperately pounding from inside)*</font>
 
 P.L. Let me out!
 
@@ -608,11 +608,11 @@ H.A.: Ladies and gentlemen <font color=grey>*(interrupted, shouting "that's him,
 
 D.F. <font color=grey>*(Panting)*</font> What the devil is going on?
 
-Gatekeeper: Fine old hullabaloo, sir. The hunt's up. Mark you, he's given them a run for their money.
+R.bum: Fine old hullabaloo, sir. The hunt's up. Mark you, he's given them a run for their money.
 
 D.F. Don't talk in riddles, man. Make yourself clear.
 
-Gatekeeper: Henry Adams, sir, and the cheque!
+R.bum: Henry Adams, sir, and the cheque!
 
 N.: A sophisticated englishman as he is, Duke of Frognal had really not expected things to go this far. He realized that his vindictive acts may soon end up in chaos. He mumbled about Renie's errant behavior, and went straight into the corridor.
 
@@ -660,9 +660,9 @@ D.F. You're the most charitable Yankees I've ever seen. I'm beginning to like yo
 
 <font color=grey>*(On Henry's side of the stage, sevants and maids clustered around him. Meanwhile narrator reads the following line.)*</font>
 
-N.: Remember Portia? Well, as soon as the million pound note was found, the shares price of Good Hope mines peaked again, and Portia's aunt was quite content to receive the five thousand pounds that Henry has promised her. Busy counting money and boasting about her blueprint for the money, Portia's aunt definitely Portia to continue her relationship with Henry. But Portia never cared about those filthy bits of paper - she just badly wanted to see Henry.
+N.: Remember our Portia? Well, as soon as the million pound note was found, the shares price of Good Hope mines peaked again, and Portia's aunt was quite content to receive the five thousand pounds that Henry has promised her. Busy counting money and boasting about her blueprint for the money, Portia's aunt definitely Portia to continue her relationship with Henry. But Portia never cared about those filthy bits of paper - she just badly wanted to see Henry.
 
-<font color=grey>*(Portia was escorted into the hall)*</font>
+<font color=grey>*(P.L. was escorted into the hall)*</font>
 
 P.L. Henry! Oh, Henry.
 
@@ -672,7 +672,7 @@ P.L. Henry! Oh, Henry.
 
 ## Act 9. Henry returned the cheque and refused what the two brothers offered.
 
-Actors: Henry Adams, Oliver Montpelier, Roderick Montpelier, Portia Langham, Narrator
+Actors: H.A., O.M., R.M., P.L., N.
 
 ---
 
