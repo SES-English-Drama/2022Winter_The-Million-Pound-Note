@@ -39,9 +39,9 @@ For all the actors and actresses, when you are performing on stage, please read 
 | Duke of Cromarty        | Duke.C.    | Duke of Cromarty, Portia's uncle                                         ||
 | Guest 1                 | G1         | One of the guests invited to the party held by Duke.C.                   ||
 | Guest 2                 | G2         | One of the guests invited to the party held by Duke.C.                   ||
-| Guest 3                 | G3         | One of the guests invited to the party held by Duke.C.                   i||
-| Guest 4| G4| One of the guests invited to the party held by Duke.C. ||
-| Renie | Renie.bum| A maid at the Bumbles||
+| Guest 3                 | G3         | One of the guests invited to the party held by Duke.C.                   ||
+| Guest 4                 | G4         | One of the guests invited to the party held by Duke.C.                   ||
+| Renie                   | Renie.Bum  | A maid at the Bumbles                                                    ||
 
 
 
