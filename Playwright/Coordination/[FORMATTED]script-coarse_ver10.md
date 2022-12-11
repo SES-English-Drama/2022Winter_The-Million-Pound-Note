@@ -60,15 +60,15 @@ Mr. G: Here it is, Mr Montpelier. I‘m sure you will not be disappointed with i
 
 <font color=grey>*(*R.M and O.M. standing up*)*</font>
 
-R.M.: <font color=grey>*(*very naturally answering*)*</font> Oh on the contrary it seems to me a thing of beauty. It looks good. It feels good. It is good.
+R.M.: <font color=grey>*(*very naturally answering*)*</font> Oh on the contrary it seems to me a thing of beauty. <font color="grey">*(slowly, smiling)*</font> It looks good. It feels good. It is good.
 
-O.M.: And there is only one other like it, issued in connection with a foreign loan.
+O.M.: And there is only one other note like this, issued in connection with a foreign loan.
 
 R.M.: Yes, we've read about it. That's what gave us the idea.
 
 Mr. G: The idea?
 
-O.M.: I suppose it does seem a little curious that we should need such a large sum in the form of one note. It certainly IS an unusual request.
+O.M.: I suppose it does seem a little curious that we should need such a large sum in the form of one note. It certainly is an unusual request. <font color="grey">*(smiles)*</font>
 
 Mr. G: I imagine it's for business transaction, isn't it?
 
@@ -76,7 +76,9 @@ O.M.: <font color=grey>*(burst out laughing)*</font> Oh business transaction! Ve
 
 R.M.: You leave me no alternative. You see, Mr. Garrat, my brother and I require this pretty exquisite unique little scrap of paper...... for a bet.
 
-Mr. G: A bet? Oh gentlemen, you astonish me. I am astonished at the purpose for which you require this note. I am astonished that you should call it...... a scrap of paper <font color=grey>*(very confused)*</font>. Allow me to draw your attention to the text. I promise to pay the bearer on demand the sum of one million pounds.
+Mr. G: <font color="grey">*(frown)*</font> A bet? Oh gentlemen, I am astonished at your puspose, and that you should call it ... a scrap of paper. Allow me to draw your attention to the text. <font color="grey">*(reads, slowly and carefully)*</font> I promise to pay the bearer on demand the sum of one million pounds.
+
+<font color="grey">*(R.M. and O.M. looked at each other, smiled again and nodded without saying a word.)*</font>
 
 <font color=orange>*(Lights out,</font><font color=grey> Mr. G off the stage, H.A. onto the stage, putting his hands in his pocket, and, R.M. and O.M. standing up, getting onto the balcony)*</font>
 
