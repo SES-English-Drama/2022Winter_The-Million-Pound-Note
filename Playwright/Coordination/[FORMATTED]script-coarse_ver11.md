@@ -64,17 +64,7 @@ R.M.: <font color=grey>*(*very naturally answering*)*</font> Oh on the contrary 
 
 O.M.: And there is only one other note like this, issued in connection with a foreign loan.
 
-R.M.: Yes, we've read about it. That's what gave us the idea.
-
-Mr. G: The idea?
-
-O.M.: I suppose it does seem a little curious that we should need such a large sum in the form of one note. It certainly is an unusual request. <font color="grey">*(smiles)*</font>
-
-Mr. G: I imagine it's for business transaction, isn't it?
-
-O.M.: <font color=grey>*(burst out laughing)*</font> Oh business transaction! Very important business, isn't it? Shall we tell Mr. Garrat, Roderick?
-
-R.M.: You leave me no alternative. You see, Mr. Garrat, my brother and I require this pretty exquisite unique little scrap of paper...... for a bet.
+R.M.: You see, Mr. Garrat, this gave my brother and I the idea to require this pretty exquisite unique little scrap of paper...... for a bet.
 
 Mr. G: <font color="grey">*(frown)*</font> A bet? Oh gentlemen, I am astonished at your puspose, and that you should call it ... a scrap of paper. Allow me to draw your attention to the text. <font color="grey">*(reads, slowly and carefully)*</font> I promise to pay the bearer on demand the sum of one million pounds.
 
@@ -139,9 +129,11 @@ H.A.: Well, I can't say I have any plans. I'm hoping to find work. As a matter o
 
 O.M.: Oh, how is that possible?
 
-H.A.: Er, you see, back home I have my own little cutter. She's just a fourteen footer but I get a lot of fun out of her. Well, four weeks ago last Saturday I was sailing out of the bay. Towards dusk I found myself in the thick of a westerly gale. I did the only thing I could and ran before it all night. Next morning I'd just about given myself up for being lost when I was spotted by a brig. I earned my passage by working as an unpaid hand, which, er, accounts for my somewhat disreputable appearance.
+H.A.: Er, you see, four weeks ago I was sailing out of the bay. Towards dusk I found myself in the middle of a gale. I'd just about given myself up when I was spotted by a brig. I earned my passage by working as an unpaid hand, which, er, accounts for my somewhat disreputable appearance.
 
-R.M.: <font color=grey>*(considering)*</font> Hmm, it's a positive advantage.
+R.M.: <font color=grey>*(considering, turn into smile)*</font> Hmm, it's a positive advantage.
+
+H.A.: <font color=grey>*(frowns, apparently doesn't understand)*</font>
 
 O.M.: Tell us, Mr. Adams, what sort of work were you engaged in?
 
@@ -155,7 +147,7 @@ H.A.: <font color=grey>*(very unhappily)*</font> Well, to tell you the truth, my
 
 O.M.: <font color=grey>*(can't help cheering)*</font> Oh! Perperperperperfect! What a good luck we have, Roderick!
 
-H.A.: (a bit angry now) It may seem lucky to you gentlemen, but it's not very lucky to me! Now, if you excuse me, I'll be on my way. <font color=grey>*(getting up, wanting to leave)*</font>
+H.A.: <font color=grey>*(a bit angry now)*</font> It may seem lucky to you gentlemen, but it's not very lucky to me! Now, if you excuse me, I'll be on my way. <font color=grey>*(getting up, wanting to leave)*</font>
 
 R.M.: Oh, please don't go, Mr. Adams. You mustn't think we're insensitive. I'm sorry for my brother's tactlessness. Oliver, give him the letter.
 
@@ -214,45 +206,33 @@ C.S.S.2: <font color=grey>*(whispering to C.S.S.1, but loud enough for the audie
 
 C.S.S.1: I know what I'm doing. I've got eyes, haven't I?
 
-H.A.: <font color=grey>*(interrupting)*</font> Er... excuse me, sir. I'm so sorry to remind you that you are all wearing microphones, so not only I but also all the students in the auditorium can hear what you say...
+<font color=grey>*(C.S.S.1 attends to H.A. again, this time more flippantly)*</font>
 
-<font color=grey>*(C.S.S.1 & C.S.S.2 slowly turning around to look at each other, very nervous and not knowing what to do next. BGM: very very embarrassed)*</font>
+H.A.: I'd like to open an account and settle with you in a month. You see <font color=grey>*(slowly but confidently)*</font>, I don't happen to have any small change.
 
-<font color=grey>*(pause for two seconds)*</font>
+C.S.S.2: <font color=grey>*(sarcastically)*</font> Ha, I suppose a gentlman like you can only be expected to carry large change.
 
-C.S.S.2: Er... <font color=grey>*(whispering to C.S.S.1, but still loud enough for the audience to hear)*</font> Tod, do you remember what we were talking about? I forgot my script! Our playwrights write so many lines for me!
+H.A.: 'Cause I've only got a bank note. One million pounds. <font color=grey>*(very enigmatically, shows C.S.S.2 the bank note)*</font> YOU CAN CHARGE IT, can't you?
 
-C.S.S.1: Ah. We were talking about the suit. You said this genteleman is a little difficult for size.
+<font color=grey>*(C.S.S.1 & C.S.S.2 slowly turning around to look at each other, again very nervous and not knowing what to do next. </font> <font color=green>BGM: very very embarrassed)*</font>
 
-H.A.: Well, it'll do for the time being. I'll take it. Oh, er... If you don't mind I'd.... I'd like to open an account and settle with you in a month. You see, I, er..., don't happen to have any small change.
-
-C.S.S.2: <font color=grey>*(very enigmatically and with utter disdain)*</font> Ha, I suppose a gentlman like you can only be expected to carry large change.
-
-H.A.: 'Cause I've only got a bank note. One million pounds. <font color=grey>*(very enigmatically)*</font> YOU CAN CHARGE IT, can't you?
-
-<font color=grey>*(C.S.S.1 & C.S.S.2 slowly turning around to look at each other, again very nervous and not knowing what to do next. BGM: very very embarrassed)*</font>
-
-C.S.S.1: <font color=grey>*(very embarrassing)*</font> Er... I'm sorry, sir. Allow me to go get our manager over.
+C.S.S.1: <font color=grey>*(very embarrassed)*</font> Er... I'm sorry, sir. Allow me to go get our manager over.
 
 <font color=grey>*(C.S.S.1 moving to the other side of the stage, then C.S.S.1 and C.S.M going back)*</font>
 
 N: Tod reports the situation to the manager.
 
-C.S.M: <font color=grey>*(as if seeing a piece of gold)*</font> Would it be the one I saw in the papers on Wednesday or was it Thursday? Oh, I remember thinking that never would I be blessed with the feel of such a note as this. <font color=grey>*(suddenly loudly and angrily, to C.S.S.1)*</font> You idiot, Tod! A born idiot! Bring the gentleman into this part of the shop! <font color=grey>*(very adulatorily and politely)*</font> You'd think we never had dealing with millionaires. Oh! Take off this jacket, sir, it only fit for the dustbin <font color=grey>*(H.A. taking off his jacket)*</font>. <font color=grey>*(suddenly loudly and angrily to C.S.S.1)*</font> Hey you stupid donkey! Get Jack, Arthur and William. Be quick! <font color=grey>*(C.S.S.1 running off the stage, suddenly very very sycophantly and politely)*</font> Allow me sir. Er... this way, sir.
+C.S.M: <font color=grey>*(as if seeing a piece of gold)*</font> Would it be the one I saw in the papers on Wednesday or was it Thursday? Oh, I remember thinking that never would I be blessed with the feel of such a note as this. <font color=grey>*(suddenly loudly and angrily, to C.S.S.1)*</font> You idiot, Tod! A born idiot! Bring the gentleman into this part of the shop! <font color=grey>*(very adulatorily and politely)*</font> You'd think we never had dealing with millionaires. Oh! Take off this jacket, sir, it only fit for the dustbin <font color=grey>*(H.A. taking off his jacket)*</font>.
 
 <font color=grey>*(C.S.S.2 showing Henry his second costume in this play, which he will put on later)*</font>
 
-C.S.M: Yes. Yes. <font color=grey>*(obsequiously)*</font> First thing in the morning, we shall start to make for you. You'll be needing a morning suit, a dress suit, something for opera. You'll never get through the season without them. Thirty suits is the very minimum. Now what about a cycling suit, Mr. Adams? Cycling is all the rage nowadays. Then of course...
+C.S.M: Yes. Yes. <font color=grey>*(obsequiously, speaking at a very fast pace)*</font> First thing in the morning, we shall start to make for you. You'll be needing a morning suit, a dress suit, something for opera. You'll never get through the season without them. Thirty suits is the very minimum. Now what about a cycling suit, Mr. Adams? Cycling is all the rage nowadays. Then of course...
 
-H.A.: No, no, no. I don't need so many suits. And I can't give you all those orders 'cause you'd have to wait indefinitely for payment.
-
-C.S.M: <font color=grey>*(acting surprise)*</font> Indefinitely! A weak word. Eternally, Mr. Adams! It's our pride and glory to see a man of your eminence properly attired for the season. To skimp it would be inconvenient to you and harmful to me. Ah! Your suit will be ready for you in the morning...
-
-H.A.: That's fine. I'll just get back into these now.
+H.A.: That's fine. For the time being I only need a proper suit.
 
 C.S.M: <font color=grey>*(very horrored)*</font> No! Oh dear, oh dear, the humiliation!
 
-H.A.: Still, I suppose there's no alternative.
+<font color=grey>*(long period of 'tumult')*</font>
 
 C.S.M: Your address, Mr. Adams?
 
@@ -262,7 +242,7 @@ C.S.M: Take my advice and stay at Bumbles.
 
 H.A.: Bumbles?
 
-C.S.M: The very place, quiet, modest and discretion itself. <font color=grey>*(with a very very sycophantic smile)*</font> Luckily for you I have a relative on the management. Leave it to me.
+C.S.M: The very place, quiet, modest and discretion itself. <font color=grey>*(proud, for giving advice to such a nobleman)*</font> Luckily for you I have a relative on the management. Leave it to me.
 
 <font color=orange>*(All lights out, everyone off the stage)*</font>
 
@@ -308,25 +288,23 @@ Rock: <font color=grey>*(Smiles)*</font>
 
 H.A.: <font color=grey>*(Pats Rock on the shoulder, leading him to a table)*</font> <font color=grey>*(To manager)*</font> Then perhaps you’ll be kind enough to lead the way for us.
 
-N.: Adams learns that the dumb man works in a circus, and invites him to have a meal. He then talks about the million-pound bank note he received from the brothers, and their promise to grant him any job he requests.
-
-H.A.: All I was doing was walking around looking for a job, and now look what’s happening. I didn’t ask for this - But now that I’m in it, I may as well enjoy it.
+N.: Adams learns that the dumb man works in a circus, and invites him to have a meal. He then talks about the million-pound bank note he received from the brothers.
 
 H.A.: And that’s where you could come in! Are you very busy these days?
 
 Rock: <font color=grey>*(Shakes his head)*</font>
 
-H.A.: Well, that’s great! Then why don’t you stay with me for the next four weeks? Help me to keep the bank note intact?
+H.A.: Well, that’s great! Then why don’t you stay with me for the next four weeks, to help me keep the bank note intact?
 
 Rock: <font color=grey>*(Holds out his hand)*</font>
 
-H.A.: <font color=grey>*(Shakes hands with Rock)*</font> <font color=grey>*(To Rock, proudly)*</font> For the next month, I’m H.A., the American Millionaire.
+H.A.: <font color=grey>*(Shakes hands with Rock)*</font> <font color=grey>*(To Rock, proudly)*</font> For the next month, I’m Henry Adams, the American Millionaire.
 
 ## Act 4. Henry was introduced to the upper class.
 
 ### Scene 1. Henry was invited to a party.
 
-Actors: Duch (Duchess of Cromarty) (the host of the party), P.L., Duke (Duke of Cromarty, who is also P.L.’s uncle), H.A., Guests 1-4 (Guests 1-2 are females, Guests 3-4 are males), N.
+Actors: Duch (Duchess of Cromarty) (the host of the party), P.L., Duke (Duke of Cromarty, who is also P.L.’s uncle), H.A., Guests 1-4 (Guests 1-2 are females, Guests 3 are males), N.
 
 ---
 
@@ -335,7 +313,7 @@ Stage Properties:
 
 ---
 
-<font color="grey">*(Guests 1-3 standing on the other side chatting, P.L. and Duke.C. sitting at the rear of the stage, Duchess.C. standing at the front)*</font>
+<font color="grey">*(Guests 1-2 standing on the other side chatting, P.L. and Duke.C. sitting at the rear of the stage, Duchess.C. standing at the front)*</font>
 
 
 N.: Henry Adams is introduced to a party at Hampshire house, the Duchess’s residence.
@@ -348,13 +326,13 @@ Duke: How do you do? <font color=grey>*(Shakes hands with Henry)*</font>
 
 Duch: <font color=grey>*(Kindly)*</font> Now this is a very informal occasion. I do hope you're going to enjoy yourself. <font color=grey>*(Off the stage)*</font>
 
-<font color=grey>*(Guest 4 onto the stage, walking over to Henry.)*</font>
+<font color=grey>*(Guest 3 onto the stage, walking over to Henry.)*</font>
 
-Guest 4: If you really wish to understand the British, I suggest a visit to the House of Lords. Would you care to come with me?
+Guest 3: If you really wish to understand the British, I suggest a visit to the House of Lords. Would you care to come with me?
 
 H.A.: Well, yes indeed. As a matter of fact...
 
-<font color=grey>*(Guest 4 off the stage)*</font>
+<font color=grey>*(Guest 3 off the stage)*</font>
 
 Duch: <font color=grey>*(Onto the stage, approaches Henry)*</font> Mr. Adams, I am most anxious to introduce you to Mr. Hooker Orr.
 
@@ -362,18 +340,14 @@ Duch: <font color=grey>*(Onto the stage, approaches Henry)*</font> Mr. Adams, I 
 
 <font color=grey>*(Duchess leaves.)*</font>
 
-Guest 1: Doris likes to play lawn-tennis, Mr. Adams. We just can't keep her away from the Wimbledon Club.
-
-Guest 2: Do the ladies play lawn-tennis in your country, Mr. Adams?
+Guest 1: My daughter Doris likes to play lawn-tennis, Mr. Adams. We just can't keep her away from the Wimbledon Club. Would you like to join, Mr. Adams?
 
 H.A.: Oh yes, indeed.
 
-Guest 3: Now, Mr. Adams, I want you to make the acquaintance of Sir William Collins...
+Guest 2: Now, Mr. Adams, I want you to make the acquaintance of Sir William Collins...
 <font color=grey>*(H.A. and Guest 3 off the stage)*</font>
 
-Guest 1: A man of character!
-
-Guest 2: We must invite him to lunch!
+Guest 1: <font color=grey>*(blushes and grins)*</font> A man of character!
 
 <font color=grey>*(All the actors off the stage.)*</font>
 
@@ -506,7 +480,7 @@ N.: Henry has just professed his love to Portia at Hampshire House. Now a friend
 
 Mr.H.: Now, Henry, you've got to help me. I'm in trouble, and you'll be able to get me out quite easily. I've made a large investment in a gold mine, the Good Hope Gold Mine.
 
-H.A.: <font color=grey>*(Daydreaming)*</font> <font color=grey>*(Contentedly)*</font> Oh, what an unforgettable night I had with her. I won the heart of the dearest girl in this world! When I told her - I did, indeed - told her I loved her, she - well, she blushed till her hair turned red, but she liked it; she said she did. And she’s the only person I could be perfectly honest and square with. I told her I hadn't a cent in the world but just the million-pound note, and it didn't belong to me. I told her the whole story. She couldn’t believe it at first - but then she just laughed. She didn’t seem to mind it at all...
+H.A.: <font color=grey>*(Daydreaming)*</font> <font color=grey>*(Contentedly)*</font> Oh, what an unforgettable night I had with her. I won the heart of the dearest girl in this world! When I told her - I did, indeed - told her I loved her, she - well, she blushed till her hair turned red, but she liked it; she said she did. And she’s the only person I could be perfectly honest with. I told her I hadn't a cent but a mere note. I told her the whole story. She couldn’t believe it at first - but then she just laughed. She didn’t seem to mind it at all...
 
 **(Note that this should be addressed to the audience)**
 
@@ -518,9 +492,9 @@ H.A.: Well, we're here. Home already. Come on in and have a drink.
 
 <font color=grey>*(H.A. and Mr.H. enter the hotel and sit down in their room (represented with a table))*</font>
 
-Mr.H.: Dear me! It's a palace - it's just a palace! Henry Adams, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry Adams, the mere unconsidered drippings of your daily income would -
+Mr.H.: Dear me! It's a palace - it's just a palace! Henry Adams, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am!
 
-H.A.: Oh, my daily income! Here, down with this hot Scotch, and cheer up your soul. Here's with you! <font color=grey>*(Pours Scotch)*</font> Now, then, Lloyd, unreel your story.
+H.A.: Rich or poor? Here, down with this hot Scotch, and cheer up your soul. <font color=grey>*(Pours Scotch)*</font> Now, then, Lloyd, unreel your story.
 
 Mr.H.: Unreel it? Once more? I've already told you about it, Henry Adams. I've sunk everything I have into that mine. But there isn't one capitalist who'll take a chance. <font color=grey>*(Jumping up)*</font> <font color=grey>*(Desperately)*</font> Henry Adams, you can save me! You can save me, and you're the only man in the universe that can. Will you do it? Won't you do it?
 
@@ -532,7 +506,7 @@ H.A.: <font color=grey>*(Worriedly, for he knows himself that not a penny of the
 
 Mr.H.: Then I'm already saved! God be merciful to you forever! If ever I ... <font color="grey">*(interrupted)*</font>
 
-H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I will save you, but not in that way; for that would not be fair to you, after your hard work, and the risks you've run. I don't need to buy mines; I can keep my capital moving, in a commercial center like London. Here’s what I'll do. I know all about that mine, of course; I know its immense value, and can swear to it if anybody wishes it. You shall sell it within two weeks, for three millions cash. Use my name freely, and we'll divide the profits.
+H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I will save you, but not in that way. I don't need to buy mines; now that I know its immense value, I can swear to it if anybody wishes it. You shall sell it within two weeks, for three millions cash, under my endorsement. Use my name freely, and we'll divide the profits.
 
 Mr.H.: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
 
@@ -548,11 +522,7 @@ D.F. <font color=grey>*(pounding bank notes onto the counter)*</font> 490, 495, 
 
 M.bum: Thank you, your grace.
 
-D.F. Not at all. <font color=grey>*(with a sharp change in tone)*</font> Now what I require is a definitive explanation of this yankee american's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs!
-
-M.bum: Well, we could accommodate you in the Marborough Suite, which is equally luxurious and enjoyable.
-
-D.F. No, I want my old suite back. It's a question of principle.
+D.F. Not at all. <font color=grey>*(with a sharp change in tone)*</font> Now what I require is a definitive explanation of this offensive occupation. I've been dishonorably catered for in the small cabin downstairs! It's a question of principle. I wan't my old suite back.
 
 M.bum: He's a public figure, your grace, of considerable standing.
 
@@ -570,19 +540,19 @@ D.F. Come on, be a sport. It's only a bit of fun. You can say it was my orders.
 
 N.: <font color=grey>*(Renie.Bum acts correspondingly)*</font> And so Renie gracefully strode into Henry's suite with the subterfuge of a cleanup. Smartly lurking behind Henry's views, she adeptly took the cheque out of Henry's clothes in the wardrobe and hid it right beneath the carpet - just like a skillful prowler. Poor Rock didn't even took notice of Renie's presence.
 
-<font color=grey>*(Renie.Bum returned to Duke of Frognal who feigned a praise and left)*</font>
+<font color=grey>*(Renie.Bum returned to Duke of Frognal who feigned a praise and left; more specifically, repeating 'good girl' while shutting the door)*</font>
 
 ### Scene 3 (Portia's mansion): Soon rumor arose about the millionare's authenticity.
 
-N.: In the evening, Duke of Frognal spread the rumors of Henry being a fake millionare to the guests present. At first, the act was a self-consolation per se, but soon the news spread by word of mouth and the next morning, an article titled *million pound mystery* was published on front page of the most eminent newspaper in London.
+N.: In the evening, Duke of Frognal spread the rumors of Henry being a fake millionare to the guests present. At first, the act was a self-consolation, but soon the news spread by word of mouth and the next morning, an article titled *million pound mystery* was published on front page of the most eminent newspaper in London.
 
-Duchess.C.: ... that London Society has freely opened its doors to this notorious American visitor. An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
+Duchess.C.: <font color=grey>*(reading the newspaper)*</font> ... our community has freely opened its doors to this notorious American visitor. <font color=grey>*(shutting the newspaper)*</font>  An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
 
 <font color=grey>*(P.L. ran out of the dining room)*</font>
 
 Duchess.C.: What extraodinary creatures women are! She told me she wasn't speaking to Henry Adams, and if we're going to avoid a scandal, she mustn't.
 
-N.: Having been deeply captivated by the unsophisticated but sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
+N.: Having been deeply captivated by the sincere young man, Portia has been struggling to let go of the millionare coat of Henry. The vitriolic words of his aunt made her even more resolute to discard her family's snobbish tradition. She is now determined to see Henry again.
 
 <font color=grey>*(Duchess.C. enters P.L.'s room)*</font>
 
@@ -602,7 +572,7 @@ H.A.: I thought you said there was no hurry.
 
 M.bum: But it is customary to settle weekly at Bumbles. But naturally, in your case, we were happy to enlengthen it to three weeks. If you'll kindly settle the bill, Mr. Adams, we'll detain you no longer.
 
-N.: At first, Henry was quite uneasy on hearing Lloyd's words. The million-note-are desperately wanted to find a hole in the ground. That's when he thought about Portia in the morning, and suddenly a beam of light came to his mind - his shares in Hastings' gold mine business!
+N.: At first, Henry was quite uneasy on hearing Lloyd's words. That's when he thought about Portia in the morning, and suddenly a beam of light came to his mind - Hastings' gold mine business!
 
 H.A.: <font color=grey>*(pensive, but then delighted when he reminisced of Hastings' shares)*</font> I'll settle my accounts in full this aternoon. It so happens that my real fortune is tied up in mining ... gold mining. Well, good morning, gentlemen. You're a fascinating species. Sometime you must take a good look at yourselves <font color=grey>*(hurry out the doorway, arrogant)*</font> ... under a microscope.
 
@@ -649,7 +619,7 @@ D.F. Don't talk in riddles, man. Make yourself clear.
 
 R.bum: Henry Adams, sir, and the cheque!
 
-N.: A sophisticated englishman as he is, Duke of Frognal had really not expected things to go this far. He realized that his vindictive acts may soon end up in chaos. He mumbled about Renie's errant behavior, and went straight into the corridor.
+N.: A sophisticated englishman as he is, Duke of Frognal had really not expected things to go this far. He mumbled a curse, and went straight into the corridor.
 
 <font color=grey>*(in the hallway)*</font>
 
