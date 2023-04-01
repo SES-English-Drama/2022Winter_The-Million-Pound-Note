@@ -63,7 +63,7 @@
 
 ## Act 1. Henry got the cheque by chance.
 
-Actors: Narrator, Henry Adams, Oliver and Roderick Montpelier, Mr. Garrat, Montpelier's butler
+Performers: N., H.A., O.M., R.M., M.b, Mr. G
 
 ### Scene 1.
 
@@ -192,7 +192,7 @@ H.A.: <font color=grey>*(in quite complex tone. Maybe try referring to the movie
 
 ## Act 2. Henry bought decent clothes and was introduced to a hotel.
 
-Actors: Henry Adams, Clothes Shop Salesman 1, Clothes Shop Salesman 2, Clothes Shop Manager, Narrator
+Performers: H.A., C.S.S.1, C.S.S.2, C.S.M., N.
 
 ---
 
@@ -217,7 +217,7 @@ Stage Properties:
 
 C.S.S.2: Yes, sir.
 
-*<font color=grey>(C.S.S.2 walking to the other side of the stage and attends to H.A. again, and winks at C.S.S.1)*</font>
+*<font color=grey>(C.S.S.2 walking to the other side of the stage and attends to H.A. again, and winks at C.S.S.1</font>. <font color=violet>C.S.M off the stage)*</font>
 
 H.A.: Is this the sort of thing that's worn in England?
 
@@ -239,7 +239,7 @@ H.A.: 'Cause I've only got a bank note. One million pounds. <font color=grey>*(v
 
 C.S.S.1: <font color=grey>*(pause for a while, very embarrassing)*</font> Er... I'm sorry, sir. Allow me to go get our manager over.
 
-<font color=grey>*(C.S.S.1 moving to the other side of the stage, then C.S.S.1 and C.S.M going back)*</font>hhhhhhhhhh
+<font color=grey>*(C.S.S.1 moving to the other side of the stage, then C.S.S.1 and </font> <font color=violet>C.S.M going back)*</font>
 
 C.S.M: <font color=grey>*(as if seeing a piece of gold)*</font> Would it be the one I saw in the papers on Wednesday or was it Thursday? Oh, I remember thinking that never would I be blessed with the feel of such a note as this. <font color=grey>*(suddenly VERY loudly and angrily, to C.S.S.1)*</font> You idiot, Tod! A born idiot! Bring the gentleman into this part of the shop! <font color=grey>*(very adulatorily and politely)*</font> You'd think we never had dealing with millionaires. Oh! Take off this jacket, sir, it only fit for the dustbin <font color=grey>*(H.A. taking off his jacket)*</font>. <font color=grey>*(suddenly loudly and angrily to C.S.S.1)*</font> Hey you stupid donkey! Get Jack, Arthur and William. Be quick! <font color=grey>*(C.S.S.1 running off the stage, suddenly very very sycophantly and politely)*</font> Allow me sir. Er... this way, sir.
 
@@ -256,12 +256,12 @@ H.A.: Oh, I don't have an address. I'm changing quarters.
 
 C.S.M: Take my advice and stay at Bumbles. The very place, quiet, modest and discretion itself. <font color=grey>*(with a very very sycophantic smile)*</font> Luckily for you I have a relative on the management. Leave it to me.
 
-<font color=orange>*(All lights out, everyone off the stage)*</font>
+<font color=orange>*(All lights out, </font> <font color=violet>everyone off the stage)*</font>
 <font color=blue>*(switch the page)*</font>
 
 ## Act 3. Henry was introduced to the upper class.
 
-Actors: Duchess of Cromarty, Portia, Duke of Cromarty, Henry Adams, Guests, Narrator
+Performers: H.A., Duchess.C., P.L., Duke.C., Narrator, Guests (as extras)
 
 ---
 
@@ -273,17 +273,23 @@ Stage Properties:
 ---
 
 <font color=blue>*(switch the page)*</font>
-<font color=orange>*(All lights on )*</font>
+<font color=orange>*(All lights on)*</font>
+
+*<font color=violet>(Duchess.C., Duke.C., P.L. already on stage, and there shound be some guests sitting aside, chatting)</font>*
 
 N.: Henry Adams soon rose to fame at Bumbles. He was then introduced to a party at Hampshire house, the Duchess’s residence.
 
 <font color=green>*(BGM: some noise or music of a party,lasts until lights off)*</font>
 
-<font color=grey>*(In the background, reading the name aloud)*</font> Mr. Henry Adams!
+> <font color=grey>*(In the background, reading the name aloud)*</font> Mr. Henry Adams!
 
-<font color=grey>*(Seeing Henry Adams coming, Duke.C. and Duchess.C. making a gesture indicating 'Sorry for leave' to the guest, and walking towards Henry.)*</font>
+*<font color=violet>(H.A. onto the stage)</font>*
 
-Duchess.C.: <font color=grey>*(With a smile)*</font>How good of you to come, Mr. Adams. This is my husband.
+> <font color=grey>*(Seeing Henry Adams coming, Duke.C. and Duchess.C. making a gesture indicating 'Sorry for leave' to the guest, and walking towards Henry.)*</font>
+
+*<font color=violet>(All guests off the stage)</font>*
+
+Duchess.C.: <font color=grey>*(With a smile)*</font> How good of you to come, Mr. Adams. This is my husband.
 
 Duke.C.: How do you do? <font color=grey>*(Shaking hands with Henry)*</font>
 
@@ -291,7 +297,7 @@ H.A.: How do you do?
 
 Duke.C.: Now I fear I must drag Mr. Adams away. We have a relation who will make my life quite intolerable unless she meets him. <font color=grey>*(leading Henry away)*</font> This way, Mr. Adams.
 
-<font color=grey>*(Following Duke.C., Henry Adams walking towards Portia. Duke.C. off the stage.)*</font>
+<font color=grey>*(Following Duke.C., Henry Adams walking towards Portia. </font> <font color=violet>Duke.C. and Duchess.C. off the stage.)*</font>
 
 P.L.: I'm really excited, Mr. Adams, meeting you like this. A millionaire!
 
@@ -386,12 +392,11 @@ P.L.: Henry.
 H.A.: Yes?
 
 P.L.: Keep your expenses down for the balance of the month. Don't dip into your third year's salary.
-<font color=orange>*(All lights out )*</font>
-<font color=blue>*(switch the page)*</font>
+<font color=orange>*(All lights out)*</font> <font color=violet>*(All performers off stage)*</font> <font color=blue>*(switch the page)*</font>
 
 ## Act 4. Henry's fame started to influence the stockings of the gold mine.
 
-Actors: Henry Adams, Lloyd Hastings
+Performers: H.A., L.H.
 
 ---
 
@@ -403,13 +408,12 @@ Stage Properties:
 ---
 
 <font color=blue>*(switch the page)*</font>
-<font color=orange>*(All lights on )*</font>
+<font color=orange>*(All lights on)*</font>
+<font color=violet>*(L.H. accompanies H.A. onto stage)*</font>
 
----
+L.H.: <font color=grey>*(looking around, shocked)*</font> Dear me! It's a palace - it's just a palace! Henry, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry, the mere unconsidered drippings of your daily income would -
 
-L.H.: Dear me! It's a palace - it's just a palace! Henry, it doesn't merely make me realize how rich you are; it makes me realize, to the bone, to the marrow, how poor I am! Henry, the mere unconsidered drippings of your daily income would -
-
-H.A.: Oh, rich or poor! Here, down with this hot Scotch, and cheer up your soul.  Now, Lloyd, unreel your story.
+H.A.: <font color=grey>*(casual tone)*</font> Oh, rich or poor! Here, down with this hot Scotch, and cheer up your soul. Now, Lloyd, unreel your story.
 
 L.H.: Unreel it? Once more? I've already told you about it, Henry. I've sunk everything I have into that mine. But there isn't one capitalist who'll take a chance. <font color=grey>*(Jumping up)*</font> <font color=grey>*(Desperately)*</font> Henry, you can save me! You can save me, and you're the only man in the universe that can. Will you do it? Won't you do it?
 
@@ -425,13 +429,15 @@ H.A.: <font color=grey>*(In a commercial manner)*</font> Let me finish, Lloyd. I
 
 L.H.: <font color=grey>*(Excitedly)*</font> I may use your name! Your name - think of it! Man, they'll flock in droves, these rich Londoners; they'll fight for that stock! I'm a made man, I'm a made man forever, and I'll never forget you as long as I live!
 
-<font color=grey>*(Lloyd and Henry off the stage.)*</font>
+<font color=violet>*(L.H. and H.A. off the stage)*</font>
 <font color=orange>*(All lights out )*</font>
 <font color=blue>*(switch the page)*</font>
 
 ## Act 5. Henry's cheque was missing.
 
 ### Scene 1 (hotel counter): Duke of Frognal wanted his suite back.
+
+Performers: D.F., L.bum, Renie
 
 ---
 
@@ -445,20 +451,23 @@ Stage Properties:
 
 <font color=blue>*(switch the page)*</font>
 <font color = orange>*(Lights on on the right)*</font>
+<font color=violet>*(D.F. and L.bum already on stage)*</font>
 
 D.F. <font color=grey>*(pounding bank notes onto the counter)*</font> 490, 495, 500 pounds.
 
 L.bum: Thank you, your grace.
 
-D.F. Not at all. <font color=grey>*(becoming more and more angry, but still speaking in a calm tone)*</font> What I require is a definitive explanation of this yankee American's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs! Now, I want my old suite back. If we don't stand up to these Yankee upstarts, they'll be treading all over us. It's a question of principle.
+D.F. Not at all. <font color=grey>*(becoming more and more angry, but still speaking in a calm tone)*</font> What I require is a definitive explanation of this yankee American's occupying my suite for such a long time while I've been dishonorably catered for in the small cabin downstairs WITHOUT ANY WARNING, just because he has a million-pound-note! It's a question of principle.
 
-L.bum: He's a public figure, your grace, of considerable standing.
+L.bum: <font color=grey>*(Refutes)*</font> He's a public figure, your grace, of considerable standing.
 
-D.F. Stuff and nonsense! How do you know he is a millionaire! Nothing but hearsay! Well, if you don't get him out of that suite, Lloyd, I will do it by myself.<font color=grey>*(irritated, angrily leaving the counter, walking into the cloakroom)*</font>
+D.F. Stuff and nonsense! How do you know he is a millionaire! Nothing but hearsay! Well, if you don't get him out of that suite, Lloyd, I will do it by myself. <font color=grey>*(irritated, angrily leaving the counter, walking into the cloakroom)*</font>
 
 <font color=blue>*(switch the page)*</font>
-
 <font color=orange>*(Lights on on the left, while lights out on the right)*</font>
+<font color=violet>*(L.bum off the stage, Renie onto stage)*</font>
+
+<font color=grey>*(D.F. walks over to the cloakroom; Renie is doing her routine work in the cloakroom)*</font>
 
 D.F.: <font color=grey>*(whispering to Renie, but still loud enough to be perceived by the audience)*</font> I'd like you to play a joke on Henry Adams. Conceal his bank note when you are doing the cleanup.
 
@@ -474,11 +483,15 @@ Renie: <font color=grey>*(with a solemn expression)*</font>It's a bit of lark, s
 
 <font color=grey>*(D.F. smiling, nodding his head)*</font>
 
-Renie: <font color=grey>*(with a solemn expression)*</font>All right, sir.
-<font color=orange>*(All lights out )*</font>
+Renie: <font color=grey>*(with a solemn expression)*</font> All right, sir.
+
+<font color=orange>*(All lights out)*</font>
 <font color=blue>*(switch the page)*</font>
+<font color=violet>*(D.F. and Renie off the stage)*</font>
 
 ### Scene 2 (Portia's mansion): Soon rumor arose about the millionare's authenticity.
+
+Performers: Duchess.C., Duke.C., P.L.
 
 ---
 
@@ -486,16 +499,19 @@ Stage Properties:
 
 1. a piece of newspaper (You can even print the news if you like.)
 2. a sofa
-3. a door
+3. an invisible door
 
-   <font color=blue>*(switch the page)*</font>
-   <font color=orange>*(Lights on on the left)*</font>
+---
+
+<font color=blue>*(switch the page)*</font>
+<font color=orange>*(Lights on on the left)*</font>
+<font color=grey>*(Duke.C., Duchess.C. and P.L. already on stage)*</font>
 
 Duke.C.: <font color=grey>*(reading the newspaper)*</font> Following a rumor that Henry Adam no longer possesses the much-talked-of million pound note, <font color=grey>*(on hearing this, Duchess.C. can no longer sit comfortably)*</font> our reporter sought a special interview with him last night. On being asked to produce the note, Henry Adams was reluctant and when pressed, unable to do so...
 
-Duchess.C.: <font color=grey>*(interrupting Duke.C. very angrily)*</font>An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
+Duchess.C.: <font color=grey>*(interrupting Duke.C. very angrily) *</font>An impostor! Who would have thought it! It just shows how naive we are. From now on our doors are closed to Mr. Henry Adams.
 
-<font color=orange>*(Lights on on the right*</font>
+<font color=orange>*(Lights on on the right)*</font>
 <font color=green>*(BGM: The sound of the door being opened by key)*</font>
 <font color=grey>*(Duchess.C. entering Portia's room)*</font>
 
@@ -511,8 +527,11 @@ Duchess.C.: What extraodinary creatures women are! She told me she wasn't speaki
 
 <font color=orange>*(All lights out )*</font>
 <font color=blue>*(switch the page)*</font>
+<font color=grey>*(All off the stage)*</font>
 
 ### Scene 3: Henry regained his cheque.
+
+Performers: L.H., H.A., extras, D.F., P.L.
 
 ---
 
@@ -520,6 +539,7 @@ Stage Properties:
 
 1. a table and some chairs in the office
 2. stairs
+3. an invisible glass door
 
 ---
 
@@ -528,7 +548,7 @@ Stage Properties:
 
 <font color=green>*(BGM: noise at a stock exchange, the same as the noise of act3, but louder)*</font>
 
-<font color=grey>*(L.H. and H.A. in the office.)*</font>
+<font color=violet>*(L.H. and H.A. in the office.)*</font>
 
 L.H.: <font color=grey>*(eagerly and desperately)*</font> Nice of you to turn up! Have you found the note?
 
@@ -550,15 +570,20 @@ L.H.: Wait! Don't go, Henry! You'll be thrown out!
 
 <font color=green>*(BGM: commotion in the crowd)*</font>
 
-H.A.: <font color=grey>*(Henry rushing out the doorway, Lloyd following Henry walking into the hall)*</font> Ladies and gentlemen <font color=grey>*(interrupted, shouting "that's him, the imposter!")*</font> ... Ladies and gentlemen. I understand that you've all come here for me and your money in the Good Hope Gold Mine ... <font color=grey>*(interrupted, shouting "yeah!")*</font> I can sympathize with your feelings ... <font color=grey>*(interrupted, shouting "What about the note?")*</font> Ladies and gentlemen, if you'll just listen to me for a minute, you'll see that far from need for panic, you've all made what will turn out to be a very sound investment. <font color=grey>*(screaming and shouting, 'Where is the note!')*</font>Mr. Lloyd Hastings has such faith in your gold mine shares  ...
+H.A.: <font color=grey>*(Henry rushing out the doorway, Lloyd following Henry walking into the hall)*</font> Ladies and gentlemen <font color=grey>*(interrupted, shouting "that's him, the imposter!")*</font> ...
 
-<font color=green>*(Cheerful music, such as reveille)*</font>
+<font color=grey>*(H.A. is seized & thrown out of the stock exchange by a group of angry spectators (also as extras), and the door is shut)*</font>
+
+H.A.: <font color=grey>*(Pressing close to the glass door and still shouting & pounding the door)*</font> Ladies and gentlemen. I understand that you've all come here for me and your money in the Good Hope Gold Mine ... <font color=grey>*(interrupted, shouting "yeah!")*</font> I can sympathize with your feelings ... <font color=grey>*(interrupted, shouting "What about the note?")*</font> Ladies and gentlemen, if you'll just listen to me for a minute, you'll see that far from need for panic, you've all made what will turn out to be a very sound investment. <font color=grey>*(screaming and shouting, 'Where is the note!')*</font> Mr. Lloyd Hastings has such faith in your gold mine shares  ...
+
+<font color=green>*(Cheerful music, such as reveille, comes inside of the stock exchange)*</font>
+<font color=violet>*(D.F. onto stage)*</font>
 
 D.F. The note! The blasted note!
 
-Crowd: <font color=grey>*(pause for a moment, then cheerfully)*</font> He has the note!<font color=grey>*(The crowd off the stage)*</font>
+Crowd: <font color=grey>*(pause for a moment, then cheerfully)*</font> He has the note! <font color=grey>*(The crowd hoarding off the stage)*</font>
 
-H.A.: Where was it?
+H.A.: <font color=grey>*(turning to D.F.)*</font> Where was it?
 
 D.F. Under the carpet, my instructions.
 
@@ -570,28 +595,29 @@ H.A.: Well, since I haven't got a glove, I'll have to accept your apology.
 
 D.F. You're the most charitable Yankees I've ever seen. I'm beginning to like you. Young man, you'll make the grade in the future.
 
-<font color=grey>*(D.F. off the stage, while P.L. into the hall)*</font>
+<font color=violet>*(D.F. off the stage, while P.L. into the hall)*</font>
 
 P.L. Henry! Oh, Henry.
 <font color=orange>*(All lights out )*</font>
 <font color=blue>*(switch the page)*</font>
+<font color=violet>*(All off the stage)*</font>
 
 ## Act 6. Henry returned the cheque and refused what the two brothers offered.
 
-Actors: Henry Adams, Oliver Montpelier, Roderick Montpelier, Portia Langham
+Actors: H.A., O.M., R.M., P.L.
 
 ---
 
 Stage Properties:
 
-1. a sofa (which can be replaced by beanbags)
-2. chairs/beanbags (to seat P.L. and H.A.)
-
-<font color=blue>*(switch the page)*</font>
-<font color=grey>*(O.M. and R.M. sitting on the sofa, P.L. and H.A. sitting on the chairs.)*</font>
-<font color=orange>*(All lights on )*</font>
+1. a sofa
+2. two beanbags opposite the sofa (to seat P.L. and H.A.)
 
 ---
+
+<font color=blue>*(switch the page)*</font>
+<font color=violet>*(O.M. and R.M. sitting on the sofa, P.L. and H.A. sitting on the chairs.)*</font>
+<font color=orange>*(All lights on)*</font>
 
 O.M.: One month to the day. In fact to the very hour. A little worse for wear, but still intact. Congratulations, Mr. Adams.
 
@@ -622,10 +648,13 @@ R.M.: <font color=grey>*(without pause, a little bit emotional)*</font> How do y
 O.M.: <font color=grey>*(without pause, getting more and more emotional)*</font> We are not discussing what might have been. We're only concerned with the facts. You can't get out of it, Roderick, Mr. Adams returned the note intact and now has everything he wants. The mere fact that they had a lover's tiff has nothing to do with it...
 
 R.M.: <font color=grey>*(without pause, even more emotional)*</font> Precisely, and the note came between them.
-<font color=orange>*(All lights out.)*</font>
-<font color=blue>*(switch the page)*</font><font color=grey>
 
-<font color=blue>*(switch the page)*</font><font color=grey>
+<font color=orange>*(All lights out.)*</font>
+<font color=blue>*(switch the page)*</font>
+
+<font color=blue>*(switch the page)*</font>
 <font color=orange>*(Lights on. Everyone onto the stage.)*</font>
 
+<font color=skyblue>(Note: We expect the following narration to be well-received, so the line must be read clearly. We also tried to avoid using luxurious words. **During the rehearsal, we will decide whether to read the following *summary* based on the actual effects**.)</font>
 
+N: Shakespeare tells us, money can turn black into white, ugly into beautiful, cowards into warriors. Of course, these tiny scraps of paper can be one of the most economical ways to stimulate ones potentials. But in a society where money is , absurdity will be the ultimate trap. Adulation for the rich, despise of the poor, together with relentlessly magnified greed, make all the people disgustingly hypocritical. Unfortunately, we can't go without money. Yet still, we need to keep in mind: After all, Shakespeare also tells us that, if money can't bring peace and satisfaction, then a rich man is no better off than a poor one. From the bottom of your heart, there is certainly something more worthy of pursuit, like kindness and love. But for his earnestness, Henry wouldn't have won Portia's heart.
